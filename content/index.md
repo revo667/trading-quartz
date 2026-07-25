@@ -26,3 +26,4 @@ bağlıdır (kullanıcının çizdiği şema):
 Öğrenme sırası: piyasa mekaniği → kurumsal davranış teorisi → bu teorinin
 grafikteki izi → sistem ve disiplin. Tek dosyalık özet:
 *revo667's Trading Mindset* (katalogdan).](trading.revo667.com)
+
