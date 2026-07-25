@@ -22,8 +22,7 @@
     "prebuild": "npm run install-plugins"
   },
   "engines": {
-    "npm": ">=10.9.2",
-    "node": ">=22"
+    "node": "22.x"
   },
   "keywords": [
     "site generator",
