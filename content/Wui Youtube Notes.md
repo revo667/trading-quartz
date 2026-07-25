@@ -36,6 +36,20 @@ guncelleme: 2026-07-24
 > *"Bir trader başarısızsa, başarı veya başarısızlığın ne olduğunu
 > bilmediğindendir."*
 
+
+# Trade ile 10.000$ yaptım. Peki Nasıl Yaptım?
+
+[Video](https://www.youtube.com/@wuitrades)
+
+Traderlik 3 asamadan olusur.
+
+1- Basladiginizda bilgisiz birisi olarak baslarsiniz ve literature cok uzaktan bakarsiniz. Intradeday cok farkli bir kavramdir. Bu uzun ve zorlu bir yoldur.
+
+2- Kendinize trader dediginiz asama. Bu asamada kendinizi gelistirmenize bagli olarak bir seyler elde edeceksiniz
+
+3- Master asamasi. Bu uzmanlik basit olmayacak.
+
+Bilgisiz oldugumuz vakit sakin ve bilgisiz bir kisiyizdir. Evet piyasada cok bilgi var, ama kendinize belirli bir yol olusturdugunuzda bu bilgiler bir uyum icerisinde em
 ## Bağlantılar
 
 - Hub: [[Mentality]] · Merkez: [[Genel Bakış]]
