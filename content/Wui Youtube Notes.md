@@ -91,8 +91,25 @@ __- Tecrubeli traderlari dinlemek.
 
 # Kurallar:
 
+
+![[Pasted image 20260725222231.png]]
+
+
 - Cok bilmis davranma. 
-Her zaman ozguvenli ol, fakat forever student kavramini iyi 
+Her zaman ozguvenli ol, fakat forever student kavramini iyi kavramak onemlidir.
+
+- Dinlemek.
+Mentoru, idol dedigin adami ve ya hedefledigin kisileri dinle.
+
+- Iyi not al 
+Not alinmadigi ve ya uygulanmadigi takdirde izlenen videolar calisilan dokumanlarin hic bir onemi yoktur.
+
+- Trust the process.
+Surece guvenmezsen basari karsina kendiliginden cikmayacaktir.
+Surece guvenmeyenler yolun tadini cikaramadan sonuca odaklananlardir.
+
+
+
 
 
 
