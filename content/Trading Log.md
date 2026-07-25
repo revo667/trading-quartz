@@ -1,5 +1,29 @@
 # 📈 Trading Log
 
+## [2026-07-25] ingest | revo667's Trading Mindset ← son notlar entegre edildi
+
+- El kitabı (2026-07-15'te kalmıştı) son eklenen 6 kaynakla güncellendi,
+  içerik bölüm mantığına göre sınıflandı:
+  - **Bölüm 1:** Failure Swing & High Resistance Low + seviye↔TF eşleşme
+    tablosu (§1.1) · Daily Swing High/Low 3-4 gün kuralı (§1.6) —
+    [[Ekin YZB - İleri Seviye ICT]]
+  - **Bölüm 2:** OHLC/OLHC okuma + True Day Open 00.00 (§2.1) — Ekin
+  - **Bölüm 3 (yeni):** §3.6 [[Range Anatomisi]] (Wyckoff döngüsü +
+    acc/dist olayları + MMXM dil köprüsü) · §3.7 [[RE-Acc nedir?]]
+    (5 kural, ment box)
+  - **Bölüm 4 (yeni):** §4.8 [[Wui Youtube Notes]] (başarının doğası +
+    4 aşama + prop sırları) · §4.9 [[Wui Journal Floods]] (data-driven
+    gelişim özeti) · §4.10 [[Notes of Larry Williams]]
+  - Hızlı kural kartına 2 satır: "plana uygunluk ölçülür" ·
+    "modeli değil kendini değiştir". Frontmatter kaynak listesi 6 ham
+    notla genişletildi.
+- **Revizyon (kullanıcı geri bildirimi):** özet yetmez — tüm bölümler
+  kaynak sayfalardaki **tam detay ve tüm görsellerle** yeniden yazıldı
+  (Ekin mum şemaları + MMBM/MMSM örnekleri, Wyckoff acc/dist tabloları +
+  Twitter görselleri, RE-Acc 5 kural + görseller, Wui 4 aşama tüm
+  ekran görüntüleriyle, Journal Floods 10 aşama tam metin + 4 görsel,
+  Larry Williams notların tamamı). El kitabı ~650 → ~1090 satır.
+
 ## [2026-07-25] ingest | Wui Youtube Notes tamamlandı + hub linkleri onarıldı
 
 - Ham not `Ham Notlar/Wui Youtube Notes.md`'ye 3 yeni video eklenmişti

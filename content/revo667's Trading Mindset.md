@@ -24,8 +24,7 @@ guncelleme: 2026-07-25
 > **Tek dosyalık el kitabı.** Ham notların + Trading wiki'sinin konsolide,
 > genişletilmiş hali — 4 bölüm: **ICT Basics → ICT High Level → MMXM
 > Manipulation Notes → Mentality Notes.** Her başlık kendi wiki sayfasına
-> linkli. Katalog: [[Trading Beyni]] · Görevler: [[todo]] · Denetim aracı:
-> [[Trading Disiplin Botu]].
+> linkli. Katalog: [[Trading Beyni]] · Görevler: [[todo]] ·
 
 **İçindekiler:**
 [[#BÖLÜM 1 — ICT BASICS]] · [[#BÖLÜM 2 — ICT HIGH LEVEL]] ·
@@ -62,16 +61,48 @@ etmez" fikrinin somut mekanizması.
   likidite kavramlarının pratik amacı **doğru DOL'ü belirlemektir.** Yön
   çevirme sinyali: market yukarı gitmesi gerekirken sürekli iğne atıp
   displacement yapamıyorsa zayıftır — aşağıdaki DOL'e yönelebilir.
-- **Failure Swing & High Resistance Low** ([[Ekin YZB - İleri Seviye
-  ICT]]): market hedefe giderken arkasında **alınmamış LRL** bırakır; key
-  level'a ulaşınca son low alınır, rejection yenip reversal gelirse **yön
-  değişmiştir.** Reversal sonrası arkada bırakılan low'lar artık **High
-  Resistance Low**dur — kolay kırılmazlar. Bunlar MMXM curve'ünün mikro
-  yapı taşlarıdır.
-- **Seviye ↔ zaman dilimi eşleşmesi** (Ekin): **aylık** seviyeler Daily
-  grafikte, **haftalık** seviyeler 4H'de, **günlük** seviyeler 1H'de
-  izlenir. Markette genelde 2 yapı vardır: fiyat ya **DOL'lere** ilerler,
-  ya **imbalance'ları (FVG) doldurur.**
+### Failure Swing & High Resistance Low ([[Ekin YZB - İleri Seviye ICT]])
+
+- Market belirli bir alana gidene kadar arkasında **alınmamış ve geri
+  alınmak üzere bırakılan Low Resistance Liquidity** bırakır.
+- **Key level'a ulaşıldığında** son bırakılan low alınır; rejection yenip
+  reversal geldiğinde bu, **marketin yönünün değiştiğini** gösterir.
+- Reversal fazından sonra price action sırasında arkada bırakılan low'lar
+  **High Resistance Low** olarak adlandırılır — artık kolay kırılmazlar.
+- Bu aşamalar **MMXM modellerinde kullanılan mikro hareketlerdir** —
+  [[Market Maker Model]] curve'ünün yapı taşları.
+
+**MMBM örneği — failure swing'ler ve high resistance low:**
+
+![[Pasted image 20260718204232.png]]
+
+**MMSM örneği:**
+
+![[Pasted image 20260718204344.png]]
+
+**Gerçek grafikte: DOL'e giden yolda bırakılan LRL, dipte high resistance
+liquidity + daily FVG teması, ardından reversal:**
+
+![[Pasted image 20260718204625.png]]
+
+**Monthly FVG ile premium/discount bölgeleri (üst kırmızı = premium,
+alt yeşil = discount):**
+
+![[Pasted image 20260718204658.png]]
+
+### Seviye ↔ zaman dilimi eşleşmesi (Ekin)
+
+![[Pasted image 20260720174245.png]]
+
+| Seviye | Bakılacak grafik |
+|---|---|
+| **Aylık** seviyeler | Daily grafik |
+| **Haftalık** seviyeler | 4H |
+| **Günlük** seviyeler | 1H |
+
+- External/Internal likiditeler **dönüş noktası** olarak belirlenebilir.
+- Markette genellikle 2 yapı vardır: fiyat ya **Draw on Liquidity'lere**
+  doğru ilerler, ya da **imbalance'ları (FVG) doldurur.**
 
 ## 1.2 FVG — Fair Value Gap ([[Fair Value Gap - FVG]])
 
@@ -251,15 +282,39 @@ bias belirlerken kullanılır.** Aylık örnek:
 
 ![[Pasted image 20260705160055.png]]
 
-**OHLC / OLHC okuması** ([[Ekin YZB - İleri Seviye ICT]]): HTF'de
-anlatılan hikaye LTF'de gerçekleşir. **True Day Open = 00.00** (NYAM 9.30
-olsa da Daily mum 00.00'da başlar — Asya→London→NY'yi kapsar). Bullish
-mum **OLHC**, bearish mum **OHLC** sırası izler; **wick'ler günün Daily
-H/L'ini, body asıl hareketi belirler.** Daily H/L wick'leri genelde
-**London Manipulation → NY.AM Expansion**'da oluşur. PO3 mum
-kombinasyonları HTF seviyeleriyle (FVG, likidite, IFVG) birleştirilerek
-AMD fazları rahat okunur. *(Kendi yorumum, teyit bekliyor: consolidation
-mumu = Accumulation, wick = Manipulation, body = Distribution.)*
+**OHLC / OLHC okuması** ([[Ekin YZB - İleri Seviye ICT]]): Yüksek zaman
+diliminde yorumlamak ve anlamak çok önemlidir — **HTF üzerinde anlatılan
+hikaye, LTF üzerinde gerçekleşir.**
+
+> **True Day Open = 00.00** — NYAM 9.30'da açılmasına rağmen Daily mum
+> 00.00'da başlar; Asya → London → NY killzone'larını kapsayan mumdur.
+
+**Bullish candle (OLHC) ve bullish reversal:**
+
+![[Pasted image 20260718200450.png]]
+
+**Bearish candle (OHLC):**
+
+![[Pasted image 20260718200524.png]]
+
+**Consolidation mumu:**
+
+![[Pasted image 20260718200712.png]]
+
+Kurallar:
+
+- PO3 OHLC/OLHC modeli **HTF'de bias belirlemek** ve grafiği daha rahat
+  yorumlamak için kullanılır.
+- **Wick'ler günün Daily High/Low'unu, body günün asıl hareketini
+  belirler.** Daily H/L wick'leri genellikle **London Manipulation →
+  NY.AM Expansion** fazlarında oluşur.
+- HTF'deki önemli noktaları (FVG, Likidite, IFVG) PO3 mum
+  kombinasyonlarıyla birleştirmek daha net görüş sağlar — Accumulation /
+  Manipulation / Distribution kısımları böyle rahat okunur.
+
+> ✍️ **Kendi yorumum (teyit bekliyor):** Consolidation mumları
+> *Accumulation* fazını temsil ederken, OHLC/OLHC mumlarının wick'leri
+> *Manipulation*, body ise *Distribution* fazını temsil eder.
 
 **Institutional PO3 = Classic PO3 + time faktörü** — HTF bias + zaman =
 kusursuz expansion fazları.
@@ -559,40 +614,104 @@ manipülasyon.**
 
 ## 3.6 Wyckoff — Range Anatomisi ([[Range Anatomisi]])
 
-MMXM'in **büyükbabası** (1920'ler): fiyat rastgele değil, akıllı paranın
-planlı süreçleriyle oluşur. Döngü: **Accumulation → Markup →
-Distribution → Markdown** — insan psikolojisi değişmediği için tekrar
-eder. Trading Range çoğu trader için sıkıcı yatay dönemdir;
-**profesyoneller için gelecekteki trendin doğum yeridir.**
+MMXM'in **büyükbabası**: Richard D. Wyckoff (1920'ler) + Jim Forte'nin
+*Anatomy of a Trading Range* makalesi (Wui derlemesi). Piyasa dışarıdan
+kaos gibi görünür; oysa altında **sistematik, psikolojik bir düzen**
+yatar — fiyat rastgele değil, **akıllı paranın planlı alım-satım
+süreçleriyle** oluşur.
 
-- **Accumulation olayları:** PS (ilk hacimli alım) → SC (panik satışın
-  sonu) → AR → ST → Faz B (sabırlı pozisyon inşası) → **Faz C Spring**
-  (zayıf eller atılır — yükselişin fitili) → Faz D **SOS + LPS** → Faz E
-  (Markup).
-- **Distribution** aynadır ama psikolojik olarak daha kandırıcıdır:
-  PSY → BC → AR/ST → **Faz C UTAD** (sahte yukarı kırılım — tuzağın ta
-  kendisi) → LPSY → ICE kırılımı (Markdown).
-- **Reaccumulation:** trendin ortasındaki yatay = bitiş değil **nefes
-  alış**; hacim azalır → küçük düşüş → hacim artışı = yeni SOS habercisi.
-- **Dil köprüsü:** Spring ↔ [[Turtle Soup]]/sweep · UTAD ↔ premium
-  Judas · Faz B ↔ "uçlar dışında işlem yok" · LPS ↔ low risk buy.
-  İki dil, aynı piyasa.
+![Image](https://pbs.twimg.com/media/G21wWGZXEAATrN3?format=jpg&name=small)
+
+**Döngü: Accumulation → Markup → Distribution → Markdown** — insan
+psikolojisi değişmediği için döngü tekrar eder. Fiyatın uzun süre bir
+aralıkta gidip gelmesi = **yeni trendin hazırlık evresi (Trading
+Range).** Çoğu trader bu aralıklarda sıkılır ve hata yapar;
+**profesyoneller bu sırada pozisyon inşa eder.**
+
+![Image](https://pbs.twimg.com/media/G21wOsBXMAAmz7X?format=png&name=medium)
+
+**Accumulation (Faz A → E):**
+
+| Olay | Anlamı |
+|---|---|
+| **PS** — Preliminary Support | Büyük oyuncuların ilk hacimli alım ipuçları |
+| **SC** — Selling Climax | Panik satışının son dalgası |
+| **AR** — Automatic Rally | Fiyat zıplar; kimse dip olduğunu düşünmez |
+| **ST** — Secondary Test | Aynı seviyenin yeniden yoklanması |
+| **Faz B** | Geniş yatay salınım — sabırlı pozisyon inşası, arz-talep dengesi |
+| **Faz C — Spring** | Kısa aşağı sarkma; zayıf eller atılır → *yükselişin fitili* |
+| **Faz D — SOS + LPS** | Sign of Strength: güç talepte; Last Point of Support alımları = trend kalıcı |
+| **Faz E** | Range dışına çıkış → **Markup** başlar |
+
+![Image](https://pbs.twimg.com/media/G21wd50XsAA22Yj?format=png&name=medium)
+
+**Reaccumulation:** Yükselişin ortasında fiyat yeniden yataya geçer —
+trendin bitişi değil **nefes alışıdır.** Hacim azalır, küçük düşüş gelir,
+sonra hacim artar → yeni SOS'un habercisi. → detay: §3.7
+
+**Distribution** (accumulation'ın aynası — psikolojik olarak daha
+kandırıcı): fiyat yükselmiştir; herkes alımdayken profesyoneller
+sessizce satar.
+
+| Olay | Anlamı |
+|---|---|
+| **PSY** — Preliminary Supply | Hacim artar ama fiyat ilerlemez |
+| **BC** — Buying Climax | Genellikle en yüksek hacimli günlerden biri |
+| **AR + ST** | Sert geri çekilme + "hâlâ alıcı var mı?" testi |
+| **Faz C — UTAD** | Upthrust After Distribution: **sahte yukarı kırılım — tuzağın ta kendisi.** Stoplar patlar, sert düşüş başlar |
+| **Faz D — LPSY** | Last Point of Supply: arz baskın |
+| **ICE kırılımı** | Destek çizgisi kırılır → **Markdown** başlar |
+
+![Image](https://pbs.twimg.com/media/G21wr3tW4AA0sj2?format=png&name=medium)
+![Image](https://pbs.twimg.com/media/G21wxQaXwAAy9Nj?format=png&name=medium)
+
+**Öz:** Wyckoff'un özü **arz-talep dengesini okumaktır.** Grafikler
+sadece çizgi değildir — her biri insan psikolojisinin izini taşır.
+Akıllı para panik satandan alır, coşkuyla alana satar. Trading Range
+çoğu için sıkıcı bir yatay dönemdir; **sabırlı olanlar için gelecekteki
+trendin doğum yeridir.**
+
+> 🔗 **Dil köprüsü:** Wyckoff döngüsü,
+> [[Piyasa Manipülasyonu - PO3 (AMD)]]'nin büyükbabasıdır — Spring ↔
+> [[Turtle Soup]]/sweep, UTAD ↔ premium Judas, Faz B ↔
+> [[Range Manipülasyonu]]'nun "uçlar dışında işlem yok" dönemi, LPS ↔
+> low risk buy. İki dil, aynı piyasa.
 
 ## 3.7 RE-Acc — Wui dili ([[RE-Acc nedir?]])
 
-Yükseliş sonrası konsolidasyon → likidite temizliği + tekrar birikim →
-**trendin devamı**; önceki tepelerin kırılmasıyla teyit edilir.
+**Re-acc:** Fiyatın bir yükseliş sonrası konsolidasyona girip, güç
+topladıktan sonra yükselişe devam ettiği yapıdır. İçerisinde genellikle
+**likidite temizliği (manipülasyon)** ve **tekrar birikim
+(accumulation)** görülür. Esas amaç **trendin devamını hazırlamaktır.**
+Genelde **önceki tepelerin kırılmasıyla teyit edilir.**
 
-1. Soldaki genişleme bir **impulsive leg**; dist.'lerde **%50 bölgesi**
-   aranır — Golden Zone her zaman beklenmez *(Dreyko'nun 0.5 kuralıyla
-   aynı dil)*.
-2. Fiyatın, **impulsive hareketi başlatan veya son low'u yaratan alana**
-   teması istenir; alan %50'ye denk geliyorsa **ilk kondisyon tamam.**
-3. Sonrası: son leg içinde **acc oluşumu → leg manipülasyonu → yeni
-   local low → tepelere yolculuk.**
-4. Takip: göz aşinalığı veya **"ment box" (çift kırılım)** — yeni
-   swinglerin tepelerinin kırılması yeterli.
-5. **Re-acc içinde çift re-acc gözlemlemek isteriz.**
+![Image](https://pbs.twimg.com/media/Gvq5blsWEAA0yu3?format=jpg&name=medium)
+
+**Kurallar:**
+
+1. Soldaki genişleme herhangi bir **impulsive leg**'dir. Bu
+   genişlemelerde (dist.'lerde) genellikle **%50 bölgesini** görmek
+   isteriz — **Golden Zone'a gelmesini her zaman beklemeyiz.**
+   *(Dreyko'nun 0.5 kuralıyla aynı dil: [[Premium - Discount]].)*
+
+![Image](https://pbs.twimg.com/media/Gvq7WiFWcAI58Cv?format=png&name=small)
+
+2. Fiyatın, **impulsive hareketin başlamasında veya son low'un
+   yaratılmasında önemli rol oynamış alana** temas etmesini isteriz. Bu
+   alan %50'ye denk geliyorsa **ilk kondisyon oluşmuştur.**
+
+![Image](https://pbs.twimg.com/media/Gvq5sqZXoAARvnJ?format=jpg&name=medium)
+
+3. Fiyat o alana geldikten sonra: bu son leg'in içinde **acc oluşumu →
+   leg'in manipülasyonu → yeni local low → tepelere yolculuk** beklenir.
+4. Takip araçları: göz aşinalığı veya **"ment box"** dediğimiz **çift
+   kırılım** — yeni oluşan swinglerin tepelerinin kırılması ment box
+   için yeterlidir.
+5. **Re-acc içerisinde çift re-acc gözlemlemek isteriz.**
+
+> 🔗 Köprü: MMXM'deki re-accumulation 1-2 fazlarının
+> ([[Market Maker Model]]) ve Wyckoff reaccumulation'ının (§3.6) Wui
+> dili.
 
 ---
 
@@ -699,57 +818,260 @@ aktarılamayan** birikimdir.
 
 ## 4.8 Wui — başarının doğası ve 4 aşama ([[Wui Youtube Notes]])
 
-- **Bu işin %80'i psikolojidir.** Öğrenme aşamasında amaç para kazanmak
-  değil **para kaybetmemektir**; 3-4 ayda öğrenilmez, çabuk başarı
-  amaçlanmaz. En büyük iki hata: **aşırı beklenti + kaybetmeyi göze
-  alamamak.**
-- *"Model elbette stop olacaktır — önemli olan modeli değil, kendini
-  değiştirmektir. Sorun bazen modelde değil, kişidedir."*
-- **Obsesiflik:** trading'i yaşam şekline getirmek + devamlı çalışmak
-  eninde sonunda başarıyı getirir.
-- **Yolculuk aşamaları:** Bilgisizlik (çoğunun bıraktığı yer — sürekli
-  strateji değiştirme ve **sürekli yeni bilgi arama** tuzağı) → Öğrenme
-  (mentor bul · tecrübelileri dinle · **iyi not al** · trust the
-  process · forever student) → Deneyim (en zor aşama: journal · veri
-  topla · stratejini test et · cesur ve inançlı ol · **doğru fedakarlığı
-  yap**) → Master (her şey temiz gelir, aynı süreç, istikrarlı kâr).
-  0→1 yolu ile 1→100 yolu aynı mesafededir.
-- **Prop firm sırları:** journal + kendi modelin + sürdürülebilirlik;
-  gerisi disiplin/tutarlılık/sabır. **0 datayla giren başarısız olmak
-  zorundadır** — fon geçmek hazırlıklı girilen kişisel bir deneyimdir.
+### Trader oldum ama başarılı olamadım — yeni başlayanların kaçırdığı şey
+
+![[Pasted image 20260724215631.png]]
+
+- Trading zor bir sektördür; **3-4 ayda tam anlamıyla öğrenmek
+  imkansızdır.**
+- **Bu işin %80'i psikolojiden ibarettir.**
+- Öğrenme aşamasında önemli olan **para kazanmak değil, para
+  kaybetmemektir.**
+- Trading, kendini ilerletebilirsen çok önemli bir iş alanı olabilir —
+  para kazanabilirsin, ama ne kadar doğru ve anlamlı şekilde
+  yorumluyorsun?
+- Eğitim satanlar **"çabuk para kazanılır" algısı** yaratır; başarılı
+  olmak isteyenlerin çoğu çabuk para istediği için başarısız olur.
+  **Çabuk başarı amaçlanmamalıdır.**
+- **Aşırı beklentiye girmek ve kaybetmeyi göze alamamak, yapılmaması
+  gereken en büyük iki hatadır.**
+- Model tek başına başarı getirmez: *"Model elbette ki stop olacaktır —
+  önemli olan modeli değil, kendini değiştirmektir. Sorun bazen modelde
+  değil, kişidedir."*
+- **Obsesiflik:** Başarı tek başına gelmez; trading'i yaşam şekline
+  getirmek, bu konuda obsesif olmak ve devamlı çalışmak eninde sonunda
+  başarıyı getirir. Kendini geliştirmek daima trading'in ana kısmıdır.
+
+> *"Bir trader başarısızsa, başarı veya başarısızlığın ne olduğunu
+> bilmediğindendir."*
+
+### Forex fon geçme — herkes geçiyor, sen neden geçemiyorsun?
+
+- **Firmalar bize değil, kendilerine para kazandırmak üzere kuruludur.**
+- **0 datayla** (kendine ait geçmiş performans/istatistik olmadan) işlem
+  yapmaya çalışan bir trader **başarısız olmak zorundadır.**
+- Bir haftaya **hazırlıklı** giren bir traderin uzun vadede başarısız
+  olması imkansızdır.
+- Proplarda başarılı olmanın en büyük sırları: **journal tutmak** ·
+  **kendine ait bir model** · **sürdürülebilirlik** · geriye kalanın
+  tamamı kişinin kendi gelişimidir (**disiplin, tutarlılık, sabır**).
+- **Short term trade**, başlangıç için daha iyi olabilir.
+- Fon geçmek aslında **kişisel bir deneyimdir** — hazırlıklı girersen
+  başarılı, hazırlıksız girersen başarısız olursun.
+
+### Strateji itirafları — keşke daha önce bilseydim
+
+Kaynakları: ICT · Mentfx · Read the Ticker · readthemarket.com
+
+- Fiyatın **low resistance** hareketlerinden sonra trade atıyorum; **key
+  level**'a geldikten sonra entry atılabilir.
+
+![[Pasted image 20260724230653.png]]
+
+- Trader yolculuğunu 0'dan 100'e kadar numaralandırırsak, **0-1
+  arasındaki yol ile 1-100 arasındaki yolun mesafesi aynıdır.** 0-1
+  arasında inişler ve çıkışlar olacaktır, fakat 1. aşamaya gelindiğinde
+  100'e gitmek daha kolaylaşır.
+
+![[Pasted image 20260724231300.png]]
+
+### Traderlığın aşamaları (Trade ile 10.000$ yaptım)
+
+**Traderlik 3 aşamadan oluşur:** 1) Bilgisizlik — literatüre çok
+uzaktan bakarsınız; intraday çok farklı bir kavramdır, uzun ve zorlu bir
+yoldur. 2) Trader — kendinize trader dediğiniz aşama; kendinizi
+geliştirmenize bağlı olarak bir şeyler elde edersiniz. 3) Master — bu
+uzmanlık basit olmayacak.
+
+![[Pasted image 20260725221404.png]]
+
+Bilgisiz olduğumuz vakit sakin ve bilgisiz bir kişiyizdir. Piyasada çok
+bilgi var, ama kendinize belirli bir yol oluşturduğunuzda bu bilgiler
+bir uyum içerisinde temiz bir şekilde ilerliyor. Trader olana kadar
+kafamızdaki bilgiyi ayıklayıp önemli olanları seçip kendimize bir yol
+oluşturmamız gereken evredir — gereksiz bilgileri "şunu da öğreneyim,
+bunu da öğreneyim" diyerek çıkılan yolda pek bir şey öğrenemeyiz. Bu 2
+aşama inişli çıkışlı geçer: bir umutlu, bir umutsuz oluruz. Uzmanlığı
+bir anda fark ederiz; trader özgüvenli olmalı, fakat özgüveni doğru
+bakış açısıyla yönetmelidir.
+
+**Çoğu traderin bıraktığı aşama: Bilgisizlik.** Kendini sorgulatır,
+başarısızlığı iter, döngüye sokar; gelir-gider dengeni bozuyorsa en
+zorlayıcı aşamadır. Bu aşamada: başarısız oluruz → neden başarısız
+olduğumuzu sorgularız → sürekli strateji değiştirmeye kendimizi iteriz →
+**en büyük hata: sürekli yeni bilgiler aramak.**
+
+![[Pasted image 20260725221601.png]]
+
+**Öğrenme aşaması:** bir anda her şey gözünüze temiz gelmeye başlar.
+
+![[Pasted image 20260725221712.png]]
+
+Önemli tavsiyeler: **iyi bir mentor bul** (yolu kaybetmek doğaldır;
+yaşayacaklarını tecrübeli bir traderdan dinlemek önde başlatır) ·
+**tecrübeli traderları dinle.**
+
+![[Pasted image 20260725222010.png]]
+
+**Öğrenme aşaması kuralları:**
+
+![[Pasted image 20260725222231.png]]
+
+- **Çok bilmiş davranma** — özgüvenli ol ama "forever student" kavramını
+  iyi kavra.
+- **Dinlemek** — mentorunu, idolünü, hedeflediğin kişileri dinle.
+- **İyi not al** — not alınmadığı ya da uygulanmadığı takdirde izlenen
+  videoların, çalışılan dokümanların hiçbir önemi yoktur.
+- **Trust the process** — sürece güvenmezsen başarı kendiliğinden
+  çıkmaz; sürece güvenmeyenler yolun tadını çıkaramadan sonuca
+  odaklananlardır.
+
+**Deneyim aşaması:** en kötü ve en zor aşamadır — öğrendiklerimizi
+deneyimleyerek *tekrar* öğrendiğimiz aşama. Çok inişli çıkışlı geçer;
+kimse basit şeyler sunmaz, basit şeylerle başarı gelmez.
+
+**Deneyim aşaması kuralları:**
+
+![[Pasted image 20260725222726.png]]
+
+- **Journal tutmak** · **veri toplamak** · **stratejini test et** ·
+  **cesur davran** · **inançlı ol.**
+- Bu aşamaları reel hayatla dengeli sürdürmek önemlidir: çok fedakarlık
+  değil, **doğru fedakarlığı yapmak** önemli olandır.
+
+**Master aşaması:** her traderin yaşadığı sıçrama evresi — inişli
+çıkışlı süreçten düz ve başardığınız evreye geçersiniz.
+
+**Nasıl bileceğim başardığımı?**
+
+![[Pasted image 20260725222933.png]]
+
+- Her şey çok temiz gelecek · hep aynı süreci uygulayacaksın · hesabın
+  istikrarlı bir şekilde kâr edecek · özgüvenli olacaksın.
 
 ## 4.9 Wui — data-driven gelişim ([[Wui Journal Floods]])
 
-- Trader **kendi kararlarını veriyle incelemeye başladığı anda** gelişir;
-  belli seviyeden sonra problem dışarıda değil içeridedir. Doğru soru:
-  *"para kazandırdı mı?"* değil → **"plana uygun muydu?"**
-- **Journal = duygu defteri değil, karar veri tabanı.** *Data egoyu
-  keser* — unutmaz, romantize etmez, bahane üretmez.
-- **Edge hissedilmez, ölçülür:** setup/session/asset bazlı expectancy.
-  Psikoloji = ölçülebilir davranış (plan dışı trade sayısı, stop sonrası
-  1 saatte işlem, kârda erken çıkış R'si, müdahale sayısı).
-- Bilim desteği: Prospect Theory → **disposition effect** (kazananı erken
-  sat, kaybedeni taşı — tam tersi gerekir) · Barber & Odean: **daha çok
-  işlem ≠ daha çok edge** · Ericsson: **cerrahi gelişim** — bir zayıflık
-  seç, ölç, sadece onu düzelt.
-- ***"Amatör her trade'den kimlik çıkarır; profesyonel her trade'den veri
-  çıkarır."*** Uygulama: [[Journal Template]].
-- **Rutinler:** temiz beslenme · yürüyüş · net trading saatleri (7/24
-  ekran yok) · uzun vadeli vizyon · egosuz dinleme · hobi · kıyaslamama.
+![[HMjByN2WsAAxDGM.jpeg]]
+
+**Ana tez:** Bir trader daha fazla setup, indikatör veya ekran süresiyle
+değil — **kendi kararlarını veriyle incelemeye başladığı anda** gelişir.
+Belli bir seviyeden sonra problem dışarıda değil, içeridedir. Aynı
+setup'ı iki trader bambaşka yönetir: biri plana sadık kalır, diğeri
+erken çıkar; biri stopu kabul eder, diğeri genişletir. **Gelişim =
+piyasayı okumak + kendi davranışını okumak.**
+
+### 10 Aşama
+
+![[HMjBECIXQAAhkrg.jpeg]]
+
+1. **Rastgelelik Aşaması** — Sonuç ≠ karar kalitesi. İyi karar kısa
+   vadede kaybettirebilir; kötü karar tesadüfen kazandırabilir. Tek
+   trade hiçbir şey kanıtlamaz — **trading bir örneklem işidir.** Doğru
+   soru: *"para kazandırdı mı?"* değil → **"plana uygun muydu?"**
+2. **Journal ≠ Not Defteri** — *"Bugün long aldım, stop oldum, kötü
+   hissettim"* yetmez. Gerçek journal **duygu defteri değil, karar veri
+   tabanıdır:** setup neydi, hangi session, plan var mıydı,
+   entry/stop/TP plana uygun muydu, müdahale edildi mi, duygusal durum
+   neydi, **A+ mıydı yoksa sıkıldığım için mi aldım?** *"Ben iyi
+   yönetiyorum" demek başka; son 50 işlemde kârlıları ortalama kaç R'de
+   kapattığını görmek başka.* **Data egoyu keser.**
+
+![[HMjBMXhXIAAwr-e.jpeg]]
+
+3. **Edge'i Hissetme, Ölç** — "Bu setup iyi çalışıyor" veri olmadan
+   sadece fikirdir. Her setup ayrı ölçülür: sweep setup'ları pozitif
+   expectancy üretiyor mu? Breakout mu retracement mi? London mı NY mi?
+   Gold mu NASDAQ mı? Temel soru: **"Nerede kazanıyorum, nerede
+   kaybediyorum?"** Profesyonel spesifik düşünür: *"İlk stop sonrası
+   ikinci işlemde risk disiplinimi bozuyorum", "kârlı trade'lerde çok
+   erken çıkıyorum."*
+4. **Psikoloji = Ölçülebilir Davranış** — "Sabırlı ol" çok genel. Onun
+   yerine ölç: plan dışı kaç trade aldım? İlk 30 dk'da kaç impulsive
+   entry? Stop sonrası 1 saat içinde kaç işlem? Kârdakileri ortalama
+   kaç R'de kapatıyorum? Zarardakilere kaç kez müdahale ediyorum?
+   **Psikoloji motivasyon cümlesi olmaktan çıkıp performans metriğine
+   dönüşür.** Duygular yok olmaz — *traderı bitiren duygu değil, duygu
+   geldiğinde ölçülmemiş otomatik reaksiyondur.*
+
+![[HMjBRrsWkAA0Dga.jpeg]]
+
+5. **Behavioral Finance** — Kahneman & Tversky (Prospect Theory):
+   kayıplar eşdeğer kazançlardan psikolojik olarak daha ağırdır →
+   **disposition effect** (Odean): kazananı erken satma, kaybedeni uzun
+   taşıma eğilimi. *"Kârdayken korkaklaşıyoruz, zarardayken umutlu
+   oluyoruz — oysa tam tersi gerekir."* Başarı doğal reflekslere değil,
+   **sistemli davranışlara** inşa edilmeli.
+6. **Overtrading Verisi** — Barber & Odean (*"Trading Is Hazardous to
+   Your Wealth"*): en aktif işlem yapan grup yıllık **%11.4** getiri,
+   piyasa **%17.9**. **Daha fazla işlem ≠ daha fazla edge.** Feedback
+   sistemi yoksa 1000 işlem = tecrübe değil, **1000 kez tekrarlanmış
+   disiplinsizlik.**
+7. **Deliberate Practice (Ericsson)** — Chart izlemek pratik değildir.
+   Bilinçli pratik: **bir zayıflık seç → ölç → hangi koşulda ortaya
+   çıktığını bul → sadece o davranışı düzelt.** Problemin "kârda erken
+   çıkmak"sa çalışma konun "daha iyi analiz" değil; *hangi R
+   seviyesinde panikliyorum, partial sonrası daha mı iyi yönetiyorum,
+   en iyi exit modelim hangisi?* **Genel değil, cerrahi gelişim.**
+8. **Performans Laboratuvarı** — Ölçülecek metrikler: win rate · avg
+   win/loss · expectancy · profit factor · max drawdown · avg R · setup
+   bazlı · session bazlı · asset bazlı · haftanın günü bazlı · ilk
+   trade sonrası · stop sonrası 2. trade · plan dışı işlem oranı ·
+   işlem başına duygusal hata. *Amaç robotlaşmak değil — **kendini
+   kandırmayı zorlaştırmak.** Hafıza seçici çalışır; **data unutmaz,
+   romantize etmez, bahane üretmez.***
+9. **Kimliğe Veriyle Cevap** — "Ben scalperım" demek kolay; gerçekten
+   scalping'de mi iyisin? "Disiplinliyim" demek kolay; son 100 işlemde
+   plan dışı oranın kaç? **Gelişim, kendin hakkında kurduğun
+   hikâyelerin kırılmasıdır.** Belki stratejin kötü değil, sadece
+   belirli saatlerde kötü çalışıyor; belki psikolojin bozuk değil,
+   sadece stop sonrası bozuluyor.
+10. **Sonuçtan Sürece** — Tek trade kimliğini belirlemez; her trade
+    sistemin içinde küçük bir veri noktasıdır. Bakılacak olan: son 50
+    işlemde sürece sadakat, plan dışı risk, setup kalitesi trendi,
+    drawdown'da davranış. ***"Amatör trader her trade'den kimlik
+    çıkarır; profesyonel trader her trade'den veri çıkarır."***
+
+**Sonuç — piyasa bir ayna, journal bir mikroskop:** Market zaten
+değişkendir — setup zayıflar, volatilite ve narrative değişir. Ama
+**kendi karar mekanizmanı anlamak uzun vadeli bir edge yaratır.**
+Journal geçmiş işlemlerin kaydı değil; **karakterin piyasada bıraktığı
+izlerin veri hâlidir** — nerede korktuğunu, nerede acele ettiğini,
+egonun nerede devreye girdiğini ve gerçek edge'inin nerede olduğunu
+gösterir. Gerçek gelişim şu cümlede başlar: *"Ben ne hissediyorum?"*
+değil — **"Bu hissin altında nasıl davranıyorum ve bu davranışın datası
+ne söylüyor?"** Data. Feedback. Disiplin. Ve kendine karşı dürüstlük.
+Uygulama: [[Journal Template]].
+
+**Başarılı traderların ortak rutinleri:** temiz besleniyorlar (zihindeki
+sisi yok etmek için) · kafayı boşaltmak için düzenli yürüyüş · 7/24
+ekran yerine net ve keskin trading saatleri · uzun vadeli vizyon
+(fırsatların kaçmadığını biliyorlar) · üst seviye traderları egosuz
+dinleme · zihni boşaltan bir hobi · arka plandaki süreci bilmeden
+kendini başkalarıyla kıyaslamama.
 
 ## 4.10 Larry Williams ([[Notes of Larry Williams]])
 
-- **Markets are driven by conditions, not by charts** — grafik,
-  traderların *duygusal fotoğrafıdır*; teknik analiz en çok trend ve
-  trend değişimini yakalar.
-- **En çok para kazananın isabet yüzdesi en düşüktür** — yüksek R:R +
-  düşük isabet = pozitif expectancy (kendi sistemimle aynı).
-- Market **imperfect'tir**; çoğu trader onu mükemmelleştirmeye çalışır.
-  Modelin kanıtı **trading sonuçlarıdır** — overthinking zararlı.
-- [[COT - Commitment of Traders]] = marketin kondisyonu (Commercials
-  setup'ı okunmalı) · **open interest** = güç kimde.
-- En iyi market: **bugün en çok setup üreten market.** Risk = ne kadar
-  *kaldırabildiğin*: "1% kaldırabiliyorsam %1, 5% kaldırabiliyorsam %5."
+- Technical analysis is **best for identifying trend and change of
+  trend** — certain patterns keep repeating.
+- **Markets are driven by conditions, not by charts.** Charts are the
+  *emotional picture* of traders — that's why technical analysis can't
+  be the whole game.
+- Market goes **from low closes to high closes.**
+- The best proof that a trading model works is **trading results.**
+  Overthinking on trading is not good.
+- **The market is imperfect, but most traders try to make it perfect.**
+- **Who makes the most money has the lowest percentage of accuracy.**
+  *(Kendi sistemimle köprü: yüksek R:R + düşük isabet = pozitif
+  expectancy — [[Risk Yönetimi]].)*
+- **[[COT - Commitment of Traders]]** report is for understanding
+  market condition — it's not magic; a trader should be able to read
+  the **Commercials' setup** on COT reports.
+- **Open interest** is for understanding **who has power** on the
+  market.
+- The best market is **whichever market has the most setups today.**
+- **Without risk there is no reward.** Risk management = how much risk
+  a trader can *handle*: "If I can handle 1% I'll go 1%; if I can
+  handle 5% I can trade with 5%."
 
 ---
 
