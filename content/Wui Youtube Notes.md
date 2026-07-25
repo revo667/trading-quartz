@@ -49,7 +49,54 @@ Traderlik 3 asamadan olusur.
 
 3- Master asamasi. Bu uzmanlik basit olmayacak.
 
-Bilgisiz oldugumuz vakit sakin ve bilgisiz bir kisiyizdir. Evet piyasada cok bilgi var, ama kendinize belirli bir yol olusturdugunuzda bu bilgiler bir uyum icerisinde em
+![[Pasted image 20260725221404.png]]
+
+
+Bilgisiz oldugumuz vakit sakin ve bilgisiz bir kisiyizdir. Evet piyasada cok bilgi var, ama kendinize belirli bir yol olusturdugunuzda bu bilgiler bir uyum icerisinde temiz bir sekilde ilerliyor.
+
+Trader olana kadar kafamizdaki bilgiyi ayiklayip onemli olanlari secip kendimize bir yol olusturmamiz gereken evredir. Gereksiz bilgileri ben sunu da ogreneyim, bunu da ogreneyim diyerek cikilan yolda cok da birsey ogrenemeyiz. Bu 2 asama genel olarak inisli cikisli durumda gerceklesir, bir umutlu bir umutsuz oluruz.
+
+Ve trading konusunda uzmanlastigimizi birden farkedecektir. Bir trader ozguvenli olmali fakat bu ozguvenli dogru bir bakis acisiyla yonetmelidir.
+
+# Cogu traderin biraktigi asama:
+
+- Bilgisizlik asamasi
+
+Bilgisizlik asamasi insana kendini sorgulatir, basarisizligi iter ve donguye sokar. Hayatta ugrastiginiz sey gelir-gider dengenizi bozuyorsa bilgisizlik asamasi sizi en zorlayacak asamadir. 
+
+Bu asamada sunlari yasariz:
+
+Basarisiz oluruz,
+Neden basarisiz oldugumuzu sorgulariz,
+Surekli strateji degistirmeye kendimizi iteriz,
+En buyuk hata olarak ise surekli yeni bilgiler aramaktir.
+
+![[Pasted image 20260725221601.png]]
+
+## Ogrenme asamasi:
+
+Bir anda her sey gozunuze temiz gelmeye baslayacak
+
+![[Pasted image 20260725221712.png]]
+
+Onemli tavsiyeler:
+
+__- Iyi bir mentor bul.
+
+Yolunuzu kaybetmek ve umutsuzluga kaybolmak gayet dogaldir. Fakat bu yolda yasayacaklarinizi tecrubeli bir traderdan dinlemek onde baslamamizi saglayacaktir.
+
+__- Tecrubeli traderlari dinlemek.
+
+![[Pasted image 20260725222010.png]]
+
+# Kurallar:
+
+- Cok bilmis davranma. 
+Her zaman ozguvenli ol, fakat forever student kavramini iyi 
+
+
+
+
 ## Bağlantılar
 
 - Hub: [[Mentality]] · Merkez: [[Genel Bakış]]
