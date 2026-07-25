@@ -1,5 +1,21 @@
 # 📈 Trading Log
 
+## [2026-07-25] ingest | Wui Youtube Notes tamamlandı + hub linkleri onarıldı
+
+- Ham not `Ham Notlar/Wui Youtube Notes.md`'ye 3 yeni video eklenmişti
+  (Forex Fon Geçme, Trading Stratejileri/anksiyete itirafları, Trade ile
+  10.000$ — bilgisizlik/öğrenme/deneyim/master 4 aşaması), ama
+  [[Wui Youtube Notes]] sadece ilk videoyu içeriyordu. Sayfa tüm 5 videoyu
+  kapsayacak şekilde tam güzelleştirildi (Türkçe karakterler düzeltildi,
+  kalın vurgular, tutarlı başlık hiyerarşisi, tüm görseller yerleşti).
+- **Onarım:** 2026-07-24 girdisinde vaat edilen hub atamaları
+  ("Wui×2 + Larry → Mentality; Range Anatomisi + RE-Acc → Market Maker
+  Model") hiç uygulanmamıştı — 5 usta notu sayfası hiçbir hub'dan
+  linklenmiyordu (orphan). [[Mentality]]'e "Usta notları (Halka 2)"
+  bölümü eklendi ([[Wui Youtube Notes]] · [[Wui Journal Floods]] ·
+  [[Notes of Larry Williams]]); [[Market Maker Model]]'e
+  [[Range Anatomisi]] ve [[RE-Acc nedir?]] eklendi.
+
 ## [2026-07-24] lint | Ustalardan Notlar → 1:1 sayfalara bölündü (kullanıcı kuralı)
 
 - Kullanıcı yapıyı netleştirdi: **her ham not için birebir aynı adla tek

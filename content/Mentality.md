@@ -1,6 +1,6 @@
 ---
 tags: [hub, mentalite]
-guncelleme: 2026-07-17
+guncelleme: 2026-07-25
 ---
 
 # 🧠 Mentality
@@ -30,3 +30,10 @@ kazandırır. Bu kolun sayfaları:
 
 - [[0'dan Trader Olma Felsefesi]] — disiplin & mentalite manifestosu
 - [[TJR - Nothing2Profitable (Prop Firm Yolu)]] — prop firm çerçevesi
+
+## Usta notları (Halka 2)
+
+- [[Wui Youtube Notes]] — başarısızlığın kökeni, prop firm geçişi,
+  traderlığın 4 aşaması (bilgisizlik → öğrenme → deneyim → master)
+- [[Wui Journal Floods]] — data-driven gelişim, 10 aşama karar veri tabanı
+- [[Notes of Larry Williams]] — Larry Williams'ın ham notları (İngilizce)

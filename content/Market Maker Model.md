@@ -1,7 +1,7 @@
 ---
 tags: [kavram, ict-smc, strateji]
 kaynak: ["[[Ham Notlar/Dreyko - manipülasyon serisi.pdf]]"]
-guncelleme: 2026-07-09
+guncelleme: 2026-07-25
 ---
 
 # Market Maker Model (MMXM)
@@ -83,3 +83,4 @@ Hedefimizi unutmamalı ve buna göre işlem yapmalıyız. Hedef tek olursa yapac
 - **Onay araçları:** [[SMT - Smart Money Tool]] · [[Turtle Soup]]
 - **Entry modelleri:** [[Breaker Block]] · [[Strateji - Likidite-FVG Reversal]] · [[A+ Model - Asia Range]] · [[Dreyko News Model]]
 - **HTF bias:** [[COT - Commitment of Traders]]
+- **Usta notları (Halka 2):** [[Range Anatomisi]] · [[RE-Acc nedir?]]

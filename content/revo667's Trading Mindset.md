@@ -10,7 +10,13 @@ kaynak:
   - "[[Ham Notlar/Dreyko - manipülasyon serisi.pdf]]"
   - "[[Ham Notlar/0'dan Trader Olma Felsefesi.md]]"
   - "[[Ham Notlar/Price & Pattern Recognition Series.md]]"
-guncelleme: 2026-07-15
+  - "[[Ham Notlar/EkinYZBB Ileri Seviye ICT Egitimi.md]]"
+  - "[[Ham Notlar/Wui Youtube Notes.md]]"
+  - "[[Ham Notlar/Wui Journal Floods.md]]"
+  - "[[Ham Notlar/Range Anatomisi.md]]"
+  - "[[Ham Notlar/RE-Acc nedir?.md]]"
+  - "[[Ham Notlar/Notes of Larry Williams.md]]"
+guncelleme: 2026-07-25
 ---
 
 # 🦇 revo667's Trading Mindset
@@ -56,6 +62,16 @@ etmez" fikrinin somut mekanizması.
   likidite kavramlarının pratik amacı **doğru DOL'ü belirlemektir.** Yön
   çevirme sinyali: market yukarı gitmesi gerekirken sürekli iğne atıp
   displacement yapamıyorsa zayıftır — aşağıdaki DOL'e yönelebilir.
+- **Failure Swing & High Resistance Low** ([[Ekin YZB - İleri Seviye
+  ICT]]): market hedefe giderken arkasında **alınmamış LRL** bırakır; key
+  level'a ulaşınca son low alınır, rejection yenip reversal gelirse **yön
+  değişmiştir.** Reversal sonrası arkada bırakılan low'lar artık **High
+  Resistance Low**dur — kolay kırılmazlar. Bunlar MMXM curve'ünün mikro
+  yapı taşlarıdır.
+- **Seviye ↔ zaman dilimi eşleşmesi** (Ekin): **aylık** seviyeler Daily
+  grafikte, **haftalık** seviyeler 4H'de, **günlük** seviyeler 1H'de
+  izlenir. Markette genelde 2 yapı vardır: fiyat ya **DOL'lere** ilerler,
+  ya **imbalance'ları (FVG) doldurur.**
 
 ## 1.2 FVG — Fair Value Gap ([[Fair Value Gap - FVG]])
 
@@ -127,6 +143,11 @@ Tepe/dip noktaları — başlangıç aracıdır; ileri seviyede tek tek swing'in
 anlamı yoktur. Asıl iş **toplu swing yapılarındaki Market Cycle
 fazlarını** görmek; düzgün bir swing yakalanırsa üzerine yapı inşa edilir.
 Swing point'ler cycle üzerinde **OTE** olarak karşımıza çıkar.
+
+**Daily Swing High/Low** ([[Ekin YZB - İleri Seviye ICT]]): HTF'deki
+önemli reversallar swing H/L bırakır — bullish'sek **swing low**, bearish'sek
+**swing high** bekleriz. Daily swing **3-4 günde** oluşur; HTF swing'leri
+low risk aşamasında **yüksek konfirme** sağlar.
 
 ![[Pasted image 20260709220858.png]]
 ![[Pasted image 20260709221400.png]]
@@ -229,6 +250,16 @@ manipülasyonun ta kendisi. Mantığı PO3'e (open-low-close) dayanır; **HTF
 bias belirlerken kullanılır.** Aylık örnek:
 
 ![[Pasted image 20260705160055.png]]
+
+**OHLC / OLHC okuması** ([[Ekin YZB - İleri Seviye ICT]]): HTF'de
+anlatılan hikaye LTF'de gerçekleşir. **True Day Open = 00.00** (NYAM 9.30
+olsa da Daily mum 00.00'da başlar — Asya→London→NY'yi kapsar). Bullish
+mum **OLHC**, bearish mum **OHLC** sırası izler; **wick'ler günün Daily
+H/L'ini, body asıl hareketi belirler.** Daily H/L wick'leri genelde
+**London Manipulation → NY.AM Expansion**'da oluşur. PO3 mum
+kombinasyonları HTF seviyeleriyle (FVG, likidite, IFVG) birleştirilerek
+AMD fazları rahat okunur. *(Kendi yorumum, teyit bekliyor: consolidation
+mumu = Accumulation, wick = Manipulation, body = Distribution.)*
 
 **Institutional PO3 = Classic PO3 + time faktörü** — HTF bias + zaman =
 kusursuz expansion fazları.
@@ -526,6 +557,43 @@ Compression accumulation mı (güçlü trend işareti)? · DOL'e varılmadan
 pullback'ler sığ kalır (LRL). **Sert bacak niyet, yavaş bacak
 manipülasyon.**
 
+## 3.6 Wyckoff — Range Anatomisi ([[Range Anatomisi]])
+
+MMXM'in **büyükbabası** (1920'ler): fiyat rastgele değil, akıllı paranın
+planlı süreçleriyle oluşur. Döngü: **Accumulation → Markup →
+Distribution → Markdown** — insan psikolojisi değişmediği için tekrar
+eder. Trading Range çoğu trader için sıkıcı yatay dönemdir;
+**profesyoneller için gelecekteki trendin doğum yeridir.**
+
+- **Accumulation olayları:** PS (ilk hacimli alım) → SC (panik satışın
+  sonu) → AR → ST → Faz B (sabırlı pozisyon inşası) → **Faz C Spring**
+  (zayıf eller atılır — yükselişin fitili) → Faz D **SOS + LPS** → Faz E
+  (Markup).
+- **Distribution** aynadır ama psikolojik olarak daha kandırıcıdır:
+  PSY → BC → AR/ST → **Faz C UTAD** (sahte yukarı kırılım — tuzağın ta
+  kendisi) → LPSY → ICE kırılımı (Markdown).
+- **Reaccumulation:** trendin ortasındaki yatay = bitiş değil **nefes
+  alış**; hacim azalır → küçük düşüş → hacim artışı = yeni SOS habercisi.
+- **Dil köprüsü:** Spring ↔ [[Turtle Soup]]/sweep · UTAD ↔ premium
+  Judas · Faz B ↔ "uçlar dışında işlem yok" · LPS ↔ low risk buy.
+  İki dil, aynı piyasa.
+
+## 3.7 RE-Acc — Wui dili ([[RE-Acc nedir?]])
+
+Yükseliş sonrası konsolidasyon → likidite temizliği + tekrar birikim →
+**trendin devamı**; önceki tepelerin kırılmasıyla teyit edilir.
+
+1. Soldaki genişleme bir **impulsive leg**; dist.'lerde **%50 bölgesi**
+   aranır — Golden Zone her zaman beklenmez *(Dreyko'nun 0.5 kuralıyla
+   aynı dil)*.
+2. Fiyatın, **impulsive hareketi başlatan veya son low'u yaratan alana**
+   teması istenir; alan %50'ye denk geliyorsa **ilk kondisyon tamam.**
+3. Sonrası: son leg içinde **acc oluşumu → leg manipülasyonu → yeni
+   local low → tepelere yolculuk.**
+4. Takip: göz aşinalığı veya **"ment box" (çift kırılım)** — yeni
+   swinglerin tepelerinin kırılması yeterli.
+5. **Re-acc içinde çift re-acc gözlemlemek isteriz.**
+
 ---
 
 # BÖLÜM 4 — MENTALITY NOTES
@@ -629,22 +697,78 @@ aktarılamayan** birikimdir.
 - Kaçan işlem ≠ yanlış analiz; kovalamak = dibin likiditesi olmak.
 - Kendine güven. Disiplinli ol. Oyunda kal. Aç gözlü olma.
 
+## 4.8 Wui — başarının doğası ve 4 aşama ([[Wui Youtube Notes]])
+
+- **Bu işin %80'i psikolojidir.** Öğrenme aşamasında amaç para kazanmak
+  değil **para kaybetmemektir**; 3-4 ayda öğrenilmez, çabuk başarı
+  amaçlanmaz. En büyük iki hata: **aşırı beklenti + kaybetmeyi göze
+  alamamak.**
+- *"Model elbette stop olacaktır — önemli olan modeli değil, kendini
+  değiştirmektir. Sorun bazen modelde değil, kişidedir."*
+- **Obsesiflik:** trading'i yaşam şekline getirmek + devamlı çalışmak
+  eninde sonunda başarıyı getirir.
+- **Yolculuk aşamaları:** Bilgisizlik (çoğunun bıraktığı yer — sürekli
+  strateji değiştirme ve **sürekli yeni bilgi arama** tuzağı) → Öğrenme
+  (mentor bul · tecrübelileri dinle · **iyi not al** · trust the
+  process · forever student) → Deneyim (en zor aşama: journal · veri
+  topla · stratejini test et · cesur ve inançlı ol · **doğru fedakarlığı
+  yap**) → Master (her şey temiz gelir, aynı süreç, istikrarlı kâr).
+  0→1 yolu ile 1→100 yolu aynı mesafededir.
+- **Prop firm sırları:** journal + kendi modelin + sürdürülebilirlik;
+  gerisi disiplin/tutarlılık/sabır. **0 datayla giren başarısız olmak
+  zorundadır** — fon geçmek hazırlıklı girilen kişisel bir deneyimdir.
+
+## 4.9 Wui — data-driven gelişim ([[Wui Journal Floods]])
+
+- Trader **kendi kararlarını veriyle incelemeye başladığı anda** gelişir;
+  belli seviyeden sonra problem dışarıda değil içeridedir. Doğru soru:
+  *"para kazandırdı mı?"* değil → **"plana uygun muydu?"**
+- **Journal = duygu defteri değil, karar veri tabanı.** *Data egoyu
+  keser* — unutmaz, romantize etmez, bahane üretmez.
+- **Edge hissedilmez, ölçülür:** setup/session/asset bazlı expectancy.
+  Psikoloji = ölçülebilir davranış (plan dışı trade sayısı, stop sonrası
+  1 saatte işlem, kârda erken çıkış R'si, müdahale sayısı).
+- Bilim desteği: Prospect Theory → **disposition effect** (kazananı erken
+  sat, kaybedeni taşı — tam tersi gerekir) · Barber & Odean: **daha çok
+  işlem ≠ daha çok edge** · Ericsson: **cerrahi gelişim** — bir zayıflık
+  seç, ölç, sadece onu düzelt.
+- ***"Amatör her trade'den kimlik çıkarır; profesyonel her trade'den veri
+  çıkarır."*** Uygulama: [[Journal Template]].
+- **Rutinler:** temiz beslenme · yürüyüş · net trading saatleri (7/24
+  ekran yok) · uzun vadeli vizyon · egosuz dinleme · hobi · kıyaslamama.
+
+## 4.10 Larry Williams ([[Notes of Larry Williams]])
+
+- **Markets are driven by conditions, not by charts** — grafik,
+  traderların *duygusal fotoğrafıdır*; teknik analiz en çok trend ve
+  trend değişimini yakalar.
+- **En çok para kazananın isabet yüzdesi en düşüktür** — yüksek R:R +
+  düşük isabet = pozitif expectancy (kendi sistemimle aynı).
+- Market **imperfect'tir**; çoğu trader onu mükemmelleştirmeye çalışır.
+  Modelin kanıtı **trading sonuçlarıdır** — overthinking zararlı.
+- [[COT - Commitment of Traders]] = marketin kondisyonu (Commercials
+  setup'ı okunmalı) · **open interest** = güç kimde.
+- En iyi market: **bugün en çok setup üreten market.** Risk = ne kadar
+  *kaldırabildiğin*: "1% kaldırabiliyorsam %1, 5% kaldırabiliyorsam %5."
+
 ---
 
 ## Hızlı kural kartı
 
-| Kural | Kaynak |
-|---|---|
-| SL yoksa işlem yok | [[Risk Yönetimi]] |
-| Risk ≤ %1 (scalp %0.5) · R:R ≥ 2 · kayıpta kademeli küçült | [[Risk Yönetimi]] · [[Fon Yönetimi - Prop Firm]] |
-| London'da trade yok (2-7 ET) — gözlem seansı | [[Kill Zones]] |
-| Reversal'da SMT şart · re-dist'te SMT anlamsız | [[SMT - Smart Money Tool]] |
-| Range içinde işlem yok — uçları bekle | [[Range Manipülasyonu]] |
-| HTF PD array teması olmadan reversal işlemi yok | [[PD Array]] · [[Market Maker Model]] |
-| Invalidation yazılmadan giriş yok | [[Journal Log]] |
-| Günde max 2 stop · %2-3'te ekran kapanır · haber ±1 saat | Notes + [[Fon Yönetimi - Prop Firm]] |
-| CISD gelmeden girme · ilk atlayan olma · kovalama yok | Notes/Intraday |
+| Kural                                                            | Kaynak                                                                        |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| SL yoksa işlem yok                                               | [[Risk Yönetimi]]                                                             |
+| Risk ≤ %1 (scalp %0.5) · R:R ≥ 2 · kayıpta kademeli küçült       | [[Risk Yönetimi]] · [[Fon Yönetimi - Prop Firm]]                              |
+| London'da trade yok (2-7 ET) — gözlem seansı                     | [[Kill Zones]]                                                                |
+| Reversal'da SMT şart · re-dist'te SMT anlamsız                   | [[SMT - Smart Money Tool]]                                                    |
+| Range içinde işlem yok — uçları bekle                            | [[Range Manipülasyonu]]                                                       |
+| HTF PD array teması olmadan reversal işlemi yok                  | [[PD Array]] · [[Market Maker Model]]                                         |
+| Invalidation yazılmadan giriş yok                                | [[Journal Log]]                                                               |
+| Günde max 2 stop · %2-3'te ekran kapanır · haber ±1 saat         | Notes + [[Fon Yönetimi - Prop Firm]]                                          |
+| CISD gelmeden girme · ilk atlayan olma · kovalama yok            | Notes/Intraday                                                                |
 | 3R'de ~%70 kâr al · 0.75'te %75 kapat · news range 0.5'te kâr al | [[Fon Yönetimi - Prop Firm]] · [[Premium - Discount]] · [[Dreyko News Model]] |
+| Sonuç değil **plana uygunluk** ölçülür — journal = karar veri tabanı | [[Wui Journal Floods]] |
+| Sorun modelde değil kişide — modeli değil kendini değiştir | [[Wui Youtube Notes]] |
 
 *Denetim: `python3 bot.py kontrol` → [[Trading Disiplin Botu]] · Journal
 şeması → [[Journal Log]] · Açık sorular → [[Genel Bakış]] + [[todo]]*

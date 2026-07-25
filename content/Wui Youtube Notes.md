@@ -2,14 +2,19 @@
 tags: [felsefe, halka-2]
 kaynak: ["Ham Notlar/Wui Youtube Notes.md"]
 video: "https://www.youtube.com/@wuitrades"
-guncelleme: 2026-07-24
+guncelleme: 2026-07-25
 ---
 
 # 🎥 Wui — Youtube Notes
 
-> **Halka 2 — yön belgesi.** Wui'nin (@wuitrades) "Trader oldum ama
-> başarılı olamadım" videosundan notlar. Ham not: `Ham Notlar/Wui
-> Youtube Notes.md`.
+> **Halka 2 — yön belgesi.** Wui'nin (@wuitrades) videolarından damıtılmış
+> notlar: başarısızlığın kökeni, prop firm geçişi, strateji/anksiyete
+> itirafları ve traderlığın 4 aşaması (bilgisizlik → öğrenme → deneyim →
+> master). Ham not: `Ham Notlar/Wui Youtube Notes.md`.
+
+## 1. Trader oldum ama başarılı olamadım — yeni başlayanların kaçırdığı şey
+
+[Video](https://www.youtube.com/@wuitrades)
 
 ![[Pasted image 20260724215631.png]]
 
@@ -36,83 +41,149 @@ guncelleme: 2026-07-24
 > *"Bir trader başarısızsa, başarı veya başarısızlığın ne olduğunu
 > bilmediğindendir."*
 
+## 2. Forex fon geçme — herkes geçiyor, sen neden geçemiyorsun?
 
-# Trade ile 10.000$ yaptım. Peki Nasıl Yaptım?
+[Video](https://www.youtube.com/watch?v=hDa4wgqKfBQ)
+
+- **Firmalar bize değil, kendilerine para kazandırmak üzere kuruludur** —
+  bu gerçeği unutmadan yaklaşmak gerekir.
+- **0 datayla** (kendine ait geçmiş performans/istatistik olmadan) işlem
+  yapmaya çalışan bir trader **başarısız olmak zorundadır.**
+- Bir haftaya **hazırlıklı** giren bir traderin uzun vadede başarısız
+  olması imkansızdır.
+- Proplarda başarılı olmanın en büyük sırları:
+  - **Journal tutmak.**
+  - **Kendine ait bir modelin olmak zorunda.**
+  - **Sürdürülebilirlik önemlidir.**
+  - Geriye kalanın tamamı kişinin kendi gelişimidir — **disiplin,
+    tutarlılık, sabır.**
+- **Short term trade**, başlangıç için daha iyi olabilir.
+- Fon geçmek aslında **kişisel bir deneyimdir** — hazırlıklı girersen
+  başarılı, hazırlıksız girersen başarısız olursun.
+
+## 3. Trading stratejileri — keşke daha önce bilseydim + anksiyete itirafları
+
+[Video](https://www.youtube.com/watch?v=1AWB59wyxkY)
+
+**Kaynaklar:** ICT · Mentfx · Read the Ticker · readthemarket.com
+
+- Fiyatın **low resistance** hareketlerinden sonra trade atıyorum; **key
+  level**'a geldikten sonra entry atılabilir.
+
+![[Pasted image 20260724230653.png]]
+
+- Trader yolculuğunu 0'dan 100'e kadar numaralandırırsak, **0-1 arasındaki
+  yol ile 1-100 arasındaki yolun mesafesi aynıdır.** 0-1 arasında inişler
+  ve çıkışlar olacaktır, fakat 1. aşamaya gelindiğinde 100'e gitmek daha
+  kolaylaşır.
+
+![[Pasted image 20260724231300.png]]
+
+## 4. Trade ile 10.000$ yaptım — peki nasıl yaptım?
 
 [Video](https://www.youtube.com/@wuitrades)
 
-Traderlik 3 asamadan olusur.
+**Traderlik 3 aşamadan oluşur:**
 
-1- Basladiginizda bilgisiz birisi olarak baslarsiniz ve literature cok uzaktan bakarsiniz. Intradeday cok farkli bir kavramdir. Bu uzun ve zorlu bir yoldur.
-
-2- Kendinize trader dediginiz asama. Bu asamada kendinizi gelistirmenize bagli olarak bir seyler elde edeceksiniz
-
-3- Master asamasi. Bu uzmanlik basit olmayacak.
+1. **Bilgisizlik.** Başladığınızda bilgisiz birisi olarak başlarsınız ve
+   literatüre çok uzaktan bakarsınız. Intraday çok farklı bir kavramdır —
+   bu uzun ve zorlu bir yoldur.
+2. **Trader.** Kendinize trader dediğiniz aşama; kendinizi geliştirmenize
+   bağlı olarak bir şeyler elde edeceksiniz.
+3. **Master.** Bu uzmanlık basit olmayacak.
 
 ![[Pasted image 20260725221404.png]]
 
+Bilgisiz olduğumuz vakit sakin ve bilgisiz bir kişiyizdir. Piyasada çok
+bilgi var, ama kendinize belirli bir yol oluşturduğunuzda bu bilgiler bir
+uyum içerisinde temiz bir şekilde ilerliyor.
 
-Bilgisiz oldugumuz vakit sakin ve bilgisiz bir kisiyizdir. Evet piyasada cok bilgi var, ama kendinize belirli bir yol olusturdugunuzda bu bilgiler bir uyum icerisinde temiz bir sekilde ilerliyor.
+Trader olana kadar kafamızdaki bilgiyi ayıklayıp önemli olanları seçip
+kendimize bir yol oluşturmamız gereken evredir. Gereksiz bilgileri "şunu
+da öğreneyim, bunu da öğreneyim" diyerek çıkılan yolda pek bir şey
+öğrenemeyiz. Bu 2 aşama genel olarak inişli çıkışlı geçer — bir umutlu,
+bir umutsuz oluruz.
 
-Trader olana kadar kafamizdaki bilgiyi ayiklayip onemli olanlari secip kendimize bir yol olusturmamiz gereken evredir. Gereksiz bilgileri ben sunu da ogreneyim, bunu da ogreneyim diyerek cikilan yolda cok da birsey ogrenemeyiz. Bu 2 asama genel olarak inisli cikisli durumda gerceklesir, bir umutlu bir umutsuz oluruz.
+Trading konusunda uzmanlaştığımızı bir anda fark edeceğiz. Bir trader
+özgüvenli olmalı, fakat bu özgüveni doğru bir bakış açısıyla yönetmelidir.
 
-Ve trading konusunda uzmanlastigimizi birden farkedecektir. Bir trader ozguvenli olmali fakat bu ozguvenli dogru bir bakis acisiyla yonetmelidir.
+### Çoğu traderin bıraktığı aşama: Bilgisizlik
 
-# Cogu traderin biraktigi asama:
+Bilgisizlik aşaması insana kendini sorgulatır, başarısızlığı iter ve
+döngüye sokar. Hayatta uğraştığınız şey gelir-gider dengenizi
+bozuyorsa, bilgisizlik aşaması sizi en çok zorlayacak aşamadır.
 
-- Bilgisizlik asamasi
+Bu aşamada şunları yaşarız:
 
-Bilgisizlik asamasi insana kendini sorgulatir, basarisizligi iter ve donguye sokar. Hayatta ugrastiginiz sey gelir-gider dengenizi bozuyorsa bilgisizlik asamasi sizi en zorlayacak asamadir. 
-
-Bu asamada sunlari yasariz:
-
-Basarisiz oluruz,
-Neden basarisiz oldugumuzu sorgulariz,
-Surekli strateji degistirmeye kendimizi iteriz,
-En buyuk hata olarak ise surekli yeni bilgiler aramaktir.
+- **Başarısız oluruz.**
+- **Neden başarısız olduğumuzu sorgularız.**
+- **Sürekli strateji değiştirmeye kendimizi iteriz.**
+- **En büyük hata:** sürekli yeni bilgiler aramak.
 
 ![[Pasted image 20260725221601.png]]
 
-## Ogrenme asamasi:
+### Öğrenme aşaması
 
-Bir anda her sey gozunuze temiz gelmeye baslayacak
+Bir anda her şey gözünüze temiz gelmeye başlayacak.
 
 ![[Pasted image 20260725221712.png]]
 
-Onemli tavsiyeler:
+**Önemli tavsiyeler:**
 
-__- Iyi bir mentor bul.
-
-Yolunuzu kaybetmek ve umutsuzluga kaybolmak gayet dogaldir. Fakat bu yolda yasayacaklarinizi tecrubeli bir traderdan dinlemek onde baslamamizi saglayacaktir.
-
-__- Tecrubeli traderlari dinlemek.
+- **İyi bir mentor bul.** Yolunuzu kaybetmek ve umutsuzluğa kapılmak
+  gayet doğaldır; fakat bu yolda yaşayacaklarınızı tecrübeli bir
+  traderdan dinlemek önde başlamamızı sağlar.
+- **Tecrübeli traderları dinle.**
 
 ![[Pasted image 20260725222010.png]]
 
-# Kurallar:
-
+### Öğrenme aşaması kuralları
 
 ![[Pasted image 20260725222231.png]]
 
+- **Çok bilmiş davranma.** Her zaman özgüvenli ol, fakat "forever
+  student" kavramını iyi kavramak önemlidir.
+- **Dinlemek.** Mentorunu, idol dediğin adamı ya da hedeflediğin kişileri
+  dinle.
+- **İyi not al.** Not alınmadığı ya da uygulanmadığı takdirde izlenen
+  videoların, çalışılan dokümanların hiçbir önemi yoktur.
+- **Trust the process.** Sürece güvenmezsen başarı karşına kendiliğinden
+  çıkmaz. Sürece güvenmeyenler, yolun tadını çıkaramadan sonuca
+  odaklananlardır.
 
-- Cok bilmis davranma. 
-Her zaman ozguvenli ol, fakat forever student kavramini iyi kavramak onemlidir.
+### Deneyim aşaması
 
-- Dinlemek.
-Mentoru, idol dedigin adami ve ya hedefledigin kisileri dinle.
+En kötü ve en zor aşamadır. Öğrendiklerimizi deneyimleyerek tekrar
+öğrendiğimiz aşamadır. Bu dönem çok inişli çıkışlı ve zorlu geçecektir.
+Bir anda kimse size basit şeyler sunmayacak; bir anda basit şeylerle
+başarılı olmayacaksınız.
 
-- Iyi not al 
-Not alinmadigi ve ya uygulanmadigi takdirde izlenen videolar calisilan dokumanlarin hic bir onemi yoktur.
+### Deneyim aşaması kuralları
 
-- Trust the process.
-Surece guvenmezsen basari karsina kendiliginden cikmayacaktir.
-Surece guvenmeyenler yolun tadini cikaramadan sonuca odaklananlardir.
+![[Pasted image 20260725222726.png]]
 
+- **Journal tutmak.**
+- **Veri toplamak.**
+- **Stratejini test et.**
+- **Cesur davran.**
+- **İnançlı ol.**
 
+Bu aşamaları reel hayatla dengeli bir şekilde sürdürmek önemlidir. Çok
+fedakarlık yapmak değil, **doğru fedakarlığı yapmak** önemli olandır.
 
+### Master aşaması
 
+Her traderin yaşadığı sıçrama evresidir. İnişli çıkışlı süreçten düz ve
+başardığınız evreye geçersiniz.
 
+**Nasıl bileceğim başardığımı?**
 
+![[Pasted image 20260725222933.png]]
+
+- Her şey çok temiz gelecek.
+- Hep aynı süreci uygulayacaksın.
+- Hesabın istikrarlı bir şekilde kâr edecek.
+- Özgüvenli olacaksın.
 
 ## Bağlantılar
 
