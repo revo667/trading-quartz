@@ -44,7 +44,12 @@ guncelleme: 2026-07-09
   birikmesi: bkz. Piyasa Manipülasyonu - PO3 (AMD) → Seans İçi
   Likidite Hedefi.
 
+> 🔗 **Wui karşılığı (2026-07-28):** Aynı range, Wui dilinde **"Asia
+> Model"** — (UTC-4) 20:00–00:00 konsolidasyonu **Draw noktası**, H/L ise
+> **zamana dayalı likidite seviyeleri.** Şart aynı: aralık gerçekten
+> konsolide geçmiş olmalı. Detay: [[Wui Youtube Notes]] §5.
+
 ## Bağlantılar
 
 - Hub: [[Market Maker Model]] · Merkez: [[Genel Bakış]]
-- İlgili: [[Kill Zones]]
+- İlgili: [[Kill Zones]] · [[Wui Youtube Notes]]

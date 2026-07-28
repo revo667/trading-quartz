@@ -471,6 +471,10 @@ Haftalık bağlam: günlük grafik = 1 haftalık PO3; range low manipülasyonu
 4. NY lunch (13.00) da hedef üretebilir: lunch range low manipülasyonu →
    bullish kapanış.
 
+**Wui karşılığı — "Asia Model"** ([[Wui Youtube Notes]] §5): (UTC-4)
+20:00–00:00 konsolidasyonu = **Draw noktası**; aralığın H/L'i = **zamana
+dayalı referans likidite** (şart: aralık konsolide geçmiş olmalı).
+
 Nüanslar: **Asia range çok büyükse modeli pas geç** · 9.30 manipülasyonu
 SM reversal'dan önceyse key level + onay bekle; sonraysa low risk buy
 fazından girilebilir · kırmızı haber günü asia seviyelerini mutlaka

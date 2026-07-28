@@ -28,12 +28,14 @@ kazandırır. Bu kolun sayfaları:
 
 ## Yön belgeleri (Halka 2)
 
+- ⭐ [[revo667 Model]] — kendi modelim: 7 adım + tetik parmağı protokolü
 - [[0'dan Trader Olma Felsefesi]] — disiplin & mentalite manifestosu
 - [[TJR - Nothing2Profitable (Prop Firm Yolu)]] — prop firm çerçevesi
 
 ## Usta notları (Halka 2)
 
 - [[Wui Youtube Notes]] — başarısızlığın kökeni, prop firm geçişi,
-  traderlığın 4 aşaması (bilgisizlik → öğrenme → deneyim → master)
+  traderlığın 4 aşaması (bilgisizlik → öğrenme → deneyim → master) +
+  §5 Asia Model (zamana dayalı likidite)
 - [[Wui Journal Floods]] — data-driven gelişim, 10 aşama karar veri tabanı
 - [[Notes of Larry Williams]] — Larry Williams'ın ham notları (İngilizce)

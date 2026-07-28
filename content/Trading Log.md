@@ -1,5 +1,50 @@
 # 📈 Trading Log
 
+## [2026-07-28] ingest | Wui Youtube Notes §5 — Asia Model
+
+- El yazısı "Asia Model" notu, ham nota **eklendi** (mevcut içerik
+  değiştirilmedi): `Ham Notlar/Wui Youtube Notes.md` → `# Asia Model`.
+  Notun el çizimi kırpılıp `images/wui-asia-model-cizim.png` olarak
+  kaydedildi.
+- [[Wui Youtube Notes]] sayfasına **§5. Asia Model — zamana dayalı
+  likidite** bölümü eklendi: (UTC-4) 20:00–00:00 konsolidasyonu = **Draw
+  noktası**; aralığın H/L'i = **zamana dayalı referans likidite.** Şart:
+  aralık gerçekten konsolide geçmiş olmalı.
+- Eklenen bağlam: neden çalıştığı (BSL/SSL birikimi → London/NY yakıtı) ·
+  "zamana dayalı likidite" kavramının açılımı · UTC-4 = ET ⇒ **Varşova
+  02:00–06:00** dönüşümü.
+- Köprüler kuruldu: [[A+ Model - Asia Range]] (Dreyko aynı range'i alıp
+  9.30 manipülasyonuyla devam ettiriyor — Wui "seviye nasıl belirlenir",
+  Dreyko "sonra ne olur") · [[Kill Zones]] (ET tablosuyla birebir uyumlu) ·
+  [[revo667 Model]] 3. adımın US100'deki somut çıktısı.
+- Not: Wui serisinin **ilk teknik** parçası — önceki 4 bölüm süreç/
+  psikolojiydi.
+
+## [2026-07-28] ingest | revo667 Model — kendi stratejim Halka 2'ye geçti
+
+- El yazısı not (**"Kendine Notlar ve Stratejim"**) transkribe edilip
+  [[Ham Notlar/Kendine Notlar ve Stratejim.md]] olarak kaynak katmana
+  eklendi — değiştirilmeden.
+- Halka 2'de yeni yön belgesi: [[revo667 Model]]. İçerik: özdeğerlendirme
+  (2 ay / eksik = psikoloji, teknik değil) · 3 parite tablosu (US100 ·
+  EURUSD scalp, BTCUSD swing) · **7 adımlık model** (MMXM bekle → HTF'de
+  izle → sabah plan → 1. konfirmasyon işaretle/bekle → ilk atlayan
+  manipüle olur → 2. confirmation'dan entry → korkma) · her adım ilgili
+  wiki sayfasına linkli.
+- Eklenen katmanlar (ham notta olmayan, modelin uygulanabilirliği için):
+  **tetik parmağı protokolü** (kaçırılan işlemi de journal'a yaz, riski
+  tetik çekilecek kadar küçült, limit emri, ölçüt = plana uygunluk),
+  **tek sayfalık kontrol listesi** (sabah / entry / gün sonu) ve
+  **modelin sınırları** (veri yok → 20-30 kapalı işlem sonrası revizyon;
+  "2. confirmation" nesnelleştirilmeli).
+- Motivasyon görseli: `dreyko-mmxm-reversal-yapisi.png` — *"trade etmek
+  istediğimiz yapı tam anlamıyla bu"* — sayfanın tepesine hero olarak
+  konuldu; modelin 1. maddesiyle birebir örtüşüyor.
+- Katalog + hub güncellendi: [[Trading Beyni]] → Genel Bakış bölümü,
+  [[Mentality]] → Yön belgeleri (Halka 2).
+- ⚠ Not: ham nottaki 3. maddede geçen *"if stratejini"* ifadesi
+  "eğer-ise senaryosu" olarak yorumlandı — teyit edilmeli.
+
 ## [2026-07-25] ingest | revo667's Trading Mindset ← son notlar entegre edildi
 
 - El kitabı (2026-07-15'te kalmıştı) son eklenen 6 kaynakla güncellendi,

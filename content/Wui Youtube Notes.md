@@ -2,15 +2,16 @@
 tags: [felsefe, halka-2]
 kaynak: ["Ham Notlar/Wui Youtube Notes.md"]
 video: "https://www.youtube.com/@wuitrades"
-guncelleme: 2026-07-25
+guncelleme: 2026-07-28
 ---
 
 # 🎥 Wui — Youtube Notes
 
 > **Halka 2 — yön belgesi.** Wui'nin (@wuitrades) videolarından damıtılmış
 > notlar: başarısızlığın kökeni, prop firm geçişi, strateji/anksiyete
-> itirafları ve traderlığın 4 aşaması (bilgisizlik → öğrenme → deneyim →
-> master). Ham not: `Ham Notlar/Wui Youtube Notes.md`.
+> itirafları, traderlığın 4 aşaması (bilgisizlik → öğrenme → deneyim →
+> master) ve **Asia Model** (§5 — zamana dayalı likidite).
+> Ham not: `Ham Notlar/Wui Youtube Notes.md`.
 
 ## 1. Trader oldum ama başarılı olamadım — yeni başlayanların kaçırdığı şey
 
@@ -185,7 +186,46 @@ başardığınız evreye geçersiniz.
 - Hesabın istikrarlı bir şekilde kâr edecek.
 - Özgüvenli olacaksın.
 
+## 5. Asia Model — zamana dayalı likidite
+
+*(El yazısı not, 2026-07-28.)* Serinin ilk **teknik** parçası: buraya
+kadarki bölümler süreç ve psikolojiydi, bu bölüm doğrudan grafik kuralı.
+
+**(UTC-4) 20:00 – 00:00** aralığında genelde oluşan **konsolidasyon**,
+bizim **Draw** noktamızdır. Bu zaman aralığındaki **high ve low** — eğer
+fiyat gerçekten konsolide geçtiyse — bize **referans, zamana dayalı
+likidite seviyeleridir.**
+
+![[wui-asia-model-cizim.png]]
+
+**Neden çalışır:** Asya seansı düşük hacimli, dar bir aralıktır; range'in
+iki ucunda da **stop birikir** (üstte BSL, altta SSL). London ve NY bu
+birikmiş likiditeyi yakıt olarak kullanır — yani Asia H/L, seansın
+başında zaten **haritada işaretli iki hedef** demektir.
+
+**Kritik şart — "eğer konsolide geçmiş ise":** Bu, modelin filtresidir.
+Aralık konsolidasyon değil de **trend/expansion** geçtiyse H/L artık
+biriken likidite değil, hareketin parçasıdır — model devre dışı.
+(Dreyko'nun aynı kuralı: *"Asia range çok büyükse modeli pas geç."*)
+
+**"Zamana dayalı likidite" ne demek:** Seviyeyi önemli yapan fiyatın
+kendisi değil, **hangi zaman penceresinde oluştuğu.** Aynı fiyat rastgele
+bir saatte oluşsaydı anlamı olmazdı — 20:00–00:00'da oluştuğu için
+referans. Aynı mantık: PDH/PDL, seans H/L, [[Kill Zones]] tablosu.
+
+> ⏱ **Saat notu:** UTC-4 = **ET (yaz saati)**. Vault'taki [[Kill Zones]]
+> tablosu da ET bazlı, dolayısıyla birebir uyumlu: *20.00–00.00 Asia Range
+> oluşumu (akümülasyon).* **Varşova = ET+6** → yerel **02:00–06:00**.
+> Kışın (EST, UTC-5) kontrol et.
+
+> 🔗 **Köprü:** Bu not, [[A+ Model - Asia Range]]'in **1. adımının**
+> Wui dilindeki karşılığıdır. Dreyko modeli aynı range'i alıp devamını
+> getirir: 9.30 manipülasyonu bir ucu alır → **diğer uç hedef.** Wui
+> "seviyeyi nasıl belirlersin"i, Dreyko "sonra ne olur"u anlatıyor.
+> [[revo667 Model]] açısından: bu, **3. adımın (sabah key level planı)**
+> US100'de somut çıktısıdır — Asia H/L, senaryonun iki ucu.
+
 ## Bağlantılar
 
 - Hub: [[Mentality]] · Merkez: [[Genel Bakış]]
-- İlgili: [[Wui Journal Floods]]
+- İlgili: [[Wui Journal Floods]] · [[A+ Model - Asia Range]]
