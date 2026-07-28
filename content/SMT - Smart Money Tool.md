@@ -58,6 +58,19 @@ SMT bu uyumlu chartlar arasında oluşan uyumsuzluklardan doğar. SMT'nin amacı
 4. Turtle Soup ile birlikte bilinmesi gereken bir konudur — likidite
    süpürme sonrası dönüşün teyidi olarak kullanılır.
 
+![[smt-w-uyumsuzluk.png]]
+
+İki korele paritenin W yapısı (Wui, 2026-07-28): solda ikinci dip kırmızı
+seviyeyi kırıyor — **LL yapan zayıf taraf**; sağda aynı seviye korunuyor —
+**LL yapmayan güçlü taraf.** Sert hareket, low'unu koruyanda gelir.
+
+**Vekil konfirmasyon (Wui):** Her zaman Turtle Soup gibi güçlü bir
+konfirmasyon göremeyiz. Ama **GBP üzerinde Turtle Soup'la alınan bir FVG
+varsa, EUR'ın chart'ında hiçbir oluşum görünmese bile** bu güçlü bir yorum
+sağlar — konfirmasyonu kendi paritende bulamadığında **korele olandan ödünç
+alırsın.** Çalışılan çiftler: **(ES, NQ)** ve **(EURUSD, GBP)**.
+Bağlam: [[Wui Youtube Notes]] §7.
+
 ## Bağlantılar
 
 - Hub: [[Market Maker Model]] · Merkez: [[Genel Bakış]]

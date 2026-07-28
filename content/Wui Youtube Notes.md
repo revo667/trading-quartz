@@ -263,7 +263,113 @@ expansion). Yani seviyeyi Asia üretir, London manipüle eder, NY götürür.
 > [[revo667 Model]] açısından: bu, **3. adımın (sabah key level planı)**
 > US100'de somut çıktısıdır — Asia H/L, senaryonun iki ucu.
 
+## 6. Turtle Soup — fiyat iletimindeki en büyük etken
+
+*(El yazısı not + video görselleri, 2026-07-28. Ham not:
+`Ham Notlar/Wui Youtube Notes - Turtle Soup (Apple Notlar export).pdf`)*
+
+![[turtle-soup-kapak.png]]
+
+> **"Yanılgıları yenmek için ihtiyaç olan şey."** Videonun çerçevesi bu:
+> başarısızlığın kaynağı yanılgı — gördüğün kırılımın gerçek olduğunu
+> sanmak. Turtle Soup, o yanılgıyı **piyasanın kendi diliyle** çürüten
+> yapı.
+
+**Notun yedi maddesi:**
+
+1. **Fiyatın iletimindeki en büyük etken.** *İletim* = fiyatın bir
+   seviyeden diğerine taşınması. Turtle Soup bunu tetikleyen olay:
+   likidite alınır, yakıt dolar, fiyat karşı tarafa iletilir.
+2. **Hiyerarşide yeri çok değerli.** Konfirmasyonların rastgele bir üyesi
+   değil — üst sıralarda. Gördüğünde diğer sinyalleri beklemek yerine
+   ona ağırlık verirsin.
+3. **Belirli bir likidite alımıyla oluşur.** Şart bu: önce **belirli**
+   (rastgele değil) bir likidite alınmalı — eşit dip/tepe, PDH/PDL, seans
+   H/L. ([[Likidite]])
+4. **MMXM ile bileşik bir yapıdır.** Tek başına bir pattern değil; MM
+   curve'ünün içindeki bir düğüm. ([[Market Maker Model]])
+5. **Reversal başlangıcı olabilir.** *Olabilir* — garanti değil. Bu yüzden
+   madde 6 gerekir.
+6. **Çok güçlü ve hiyerarşik bir konfirmasyondur.** Yani Turtle Soup'u
+   *tahmin* için değil, **teyit** için kullan.
+7. **Fiyatın momentumuna, Turtle Soup'la alınan key level'ların
+   alınışıyla çok güçlü bir yorum katarız.** Yani sadece "likidite alındı"
+   demiyorsun; **hangi key level'ın nasıl alındığına** bakıp momentumun
+   yönü hakkında hüküm veriyorsun.
+
+### Grafikte nasıl görünür
+
+![[turtle-soup-bearish-ltf-htf.png]]
+
+Solda LTF: eşit tepeler (kırmızı seviye) iğnelenip üstteki gri PD array'e
+dokunuluyor, ardından reddedilme ve düşüş. Sağda HTF bağlamı: mavi bölge
+yükselişi taşımış, tepede aynı seviye süpürülüyor ve markdown başlıyor.
+**Aynı olay, iki ölçekte** — LTF'de gördüğün iğne, HTF'de dönüşün kendisi.
+
+### "MMXM ile bileşik" ne demek (madde 4)
+
+![[mmxm-buy-model-05-donus.png]]
+
+MM Buy Model'in dibinde gri bölgedeki son manipülasyon = Turtle Soup'un
+oturduğu yer. Curve'ün neresinde olduğunu bilmeden görülen iğne yalnızca
+bir iğnedir; **curve'ün dibinde** görülen aynı iğne **reversal'ın
+başlangıcıdır.** Mavi bölge (≈0.5) ise dönüşten sonraki re-accumulation —
+girişin yenilendiği yer. ([[Premium - Discount]])
+
+> 🔗 **[[revo667 Model]] köprüsü:** Turtle Soup, modelin **4. maddesindeki
+> "ilk konfirmasyon"un** en net hâli — ve madde 5'in sebebi: o iğneden
+> sonra gelen sert hareket ilk atlayanı toplar. Sen **2. confirmation'ı**
+> beklersin.
+
+## 7. SMT — korelasyonun kendisi
+
+![[smt-w-uyumsuzluk.png]]
+
+- **Yönü likidite söyler:** Fiyatın güçlü şekilde bearish mi bullish mi
+  gideceğini, **açık bırakılan alınmamış likiditelere** bakarak anlarız.
+  ([[Likidite]] → DOL)
+- **SMT ise manipülasyonu açık eder:** korele pariteler üzerinde —
+  **(ES, NQ)** ve **(EURUSD, GBP)** — uyumsuzluk, manipülasyonun hangi
+  tarafta yapıldığını gösterir.
+- **En değerli kullanım — vekil konfirmasyon:** Her zaman Turtle Soup gibi
+  önemli konfirmasyonlar göremeyebiliriz. Ama örneğin **GBP üzerinde
+  Turtle Soup'la alınan bir FVG varsa, EUR'ın chart'ında hiçbir oluşum
+  görünmese bile** bu bize güçlü bir yorum verir. Yani konfirmasyonu
+  *kendi* paritende göremediğinde, **kardeşinden ödünç alırsın.**
+- **SMT esasen korelasyonu gösterir** — tek başına sinyal değil, iki
+  grafiğin ilişkisini okuma aracı.
+
+Görselde iki korele paritenin W yapısı: solda ikinci dip kırmızı seviyeyi
+kırıyor (**LL — zayıf taraf**), sağda aynı seviye korunuyor (**LL yok —
+güçlü taraf**). Sert hareket, low'unu koruyanda gelir.
+([[SMT - Smart Money Tool]] · [[Turtle Soup]])
+
+## 8. Not — "korkutucu modellere gerek yok"
+
+![[basarisizlik-kapak.png]]
+
+Notun kapanışı, teknik kısımdan daha ağır basıyor:
+
+- **Aslında çok detaylı ve korkutucu modellerle kafa yormaya gerek yok.**
+- **Belirli göz aşinalığı ve bilginin olduğu modelleri birleştirip sabır
+  ve disiplinle beklersek başarı gelecektir.**
+- **Her zaman başarılı olmak gerekmez.**
+- **Basit ve kendinizin oluşturduğu bir trading karakteri başarı
+  getirecektir.**
+
+> ⭐ *"Başarısız olmayı kabullenmek, atılacak en büyük adımlardan
+> birisidir. Yanılgılar bu işin doğasında vardır — yanılgılar aslında en
+> büyük öğretici ve başarılardır."*
+
+> 🔗 **Kapanış halkası:** §6'nın kapağı *"Turtle Soup — yanılgıları yenmek
+> için ihtiyaç olan şey"* diyordu; §8 ise *"yanılgı bu işin doğasında"*
+> diyor. Çelişki değil, aynı madalyonun iki yüzü: **teknik yanılgıyı
+> Turtle Soup çürütür, kişisel yanılgıyı kabullenmek çürütür.**
+> [[revo667 Model]]'in "modelin sınırları" bölümü ve **kendi
+> özdeğerlendirmen** (*"eksiğim psikolojik"*) tam olarak buraya bağlanıyor.
+
 ## Bağlantılar
 
 - Hub: [[Mentality]] · Merkez: [[Genel Bakış]]
-- İlgili: [[Wui Journal Floods]] · [[A+ Model - Asia Range]]
+- İlgili: [[Wui Journal Floods]] · [[A+ Model - Asia Range]] ·
+  [[Turtle Soup]]

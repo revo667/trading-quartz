@@ -23,6 +23,16 @@ Dreyko'nun stratejisi:
 ## Yapı (Market Maker Buy Model)
 
 ![[dreyko-mmxm-reversal-yapisi.png]]
+
+**Gerçek grafikte (Wui, 2026-07-28):**
+
+![[mmxm-buy-model-05-donus.png]]
+
+Dipteki gri bölgede son manipülasyon ([[Turtle Soup]]) → dönüş → mavi
+bölge (≈0.5) re-accumulation olarak çalışıyor → expansion. **Curve'ün
+neresinde olduğunu bilmeden görülen iğne sadece iğnedir; curve'ün dibinde
+görülen aynı iğne reversal'ın başlangıcıdır.** Detay:
+[[Wui Youtube Notes]] §6.
 > *Dreyko PDF: "trade etmek istediğimiz yapı tam anlamıyla bu" — original
 > consolidation → re-distribution 1-2 → HTF PD array → reversal (SMT!) →
 > re-accumulation 1-2.*

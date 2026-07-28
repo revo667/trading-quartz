@@ -14,6 +14,29 @@ döner. Piyasa Manipülasyonu - PO3 (AMD)'da başlık olarak geçiyordu,
 
 ![[8BA4C6A2-98FE-4750-B827-EEDA86997A17.jpeg]]
 
+## Wui'nin çerçevesi (2026-07-28)
+
+![[turtle-soup-kapak.png]]
+
+> *"Yanılgıları yenmek için ihtiyaç olan şey."*
+
+- **Fiyatın iletimindeki en büyük etken** — likidite alınır, fiyat karşı
+  tarafa iletilir.
+- **Konfirmasyon hiyerarşisinde yeri çok değerli** — tahmin aracı değil,
+  **teyit** aracı.
+- **Belirli bir likidite alımıyla oluşur** (rastgele iğne sayılmaz).
+- **MMXM ile bileşik bir yapıdır** — curve'ün neresinde olduğu, iğnenin
+  anlamını belirler.
+- **Reversal başlangıcı olabilir** — *olabilir*; teyit şart.
+- Turtle Soup'la alınan key level'ların **nasıl alındığı**, momentum
+  yorumuna güç katar.
+
+![[turtle-soup-bearish-ltf-htf.png]]
+
+Solda LTF: eşit tepeler iğnelenip üstteki PD array'e dokunuluyor →
+reddedilme. Sağda HTF: aynı seviye tepede süpürülüyor → markdown.
+Detay: [[Wui Youtube Notes]] §6.
+
 ## Örnek yapılar (PDF'ten)
 
 - **Aylık FVG high'ı iğnelenir** → günlükte manipülasyon → turtle soup

@@ -1,5 +1,41 @@
 # 📈 Trading Log
 
+## [2026-07-28] ingest | Wui Youtube Notes §6 — Turtle Soup
+
+- Yeni el yazısı not + 5 video görseli işlendi. Ham not sonuna `# Turtle
+  Soup` bölümü eklendi (mevcut içerik değiştirilmedi). Kaynak PDF yanlış
+  adla gelmişti (`Price & Pattern Recognition Series.pdf` — içeriği "Wui
+  YouTube Notes"), **çakışmayı önlemek için** `Wui Youtube Notes - Turtle
+  Soup (Apple Notlar export).pdf` olarak yeniden adlandırıldı.
+- [[Wui Youtube Notes]] → **§6 Turtle Soup — fiyat iletimindeki en büyük
+  etken**: notun 7 maddesi tek tek açıldı (iletim / hiyerarşi / belirli
+  likidite şartı / MMXM ile bileşiklik / "reversal başlangıcı *olabilir*"
+  / teyit aracı olması / key level'ın *nasıl* alındığından momentum
+  yorumu).
+- Görsel yerleşimi (5 adet, `images/`):
+  - `basarisizlik-kapak.png` + `turtle-soup-kapak.png` → §6 açılışı
+    (*"yanılgıları yenmek için ihtiyaç olan şey"* çerçevesi)
+  - `turtle-soup-bearish-ltf-htf.png` → §6 + [[Turtle Soup]] sayfası
+  - `mmxm-buy-model-05-donus.png` → §6 + [[Market Maker Model]] (curve
+    üzerinde Turtle Soup'un yeri)
+  - `smt-w-uyumsuzluk.png` → §6 + [[SMT - Smart Money Tool]] (W
+    uyumsuzluğu: LL yapan zayıf / yapmayan güçlü taraf)
+- Köprü: [[revo667 Model]] 4. maddesindeki "ilk konfirmasyon" ile
+  eşleştirildi — Turtle Soup ilk teyit, entry 2. confirmation'da.
+- **Tamamlama:** PDF dışa aktarımı notu *"katarız"* satırında kesmişti;
+  kalan kısım Apple Notlar'dan **ekran görüntüsüyle** alındı →
+  **§7 SMT** (likidite yön verir · (ES,NQ)/(EURUSD,GBP) · **vekil
+  konfirmasyon**: GBP'de Turtle Soup'la alınan FVG, EUR'da oluşum
+  görünmese bile yorum sağlar · SMT esasen korelasyondur) ve
+  **§8 Not** (*"korkutucu modellere gerek yok"*, basit ve kendine ait
+  trading karakteri, *"başarısız olmayı kabullenmek en büyük adım —
+  yanılgılar en büyük öğretici"*).
+- `basarisizlik-kapak.png` §6'dan **§8'e taşındı** — asıl bağlamı orası.
+- [[SMT - Smart Money Tool]] sayfasına "vekil konfirmasyon" kuralı eklendi.
+- 📌 **Kalıcı ders:** Apple Notlar → PDF dışa aktarımı el yazısını A4'e
+  sığdırırken **sağ kenarı ve sayfa sonrasını kırpıyor.** Uzun notlarda
+  PDF tek başına yeterli değil; ekran görüntüsüyle doğrulanmalı.
+
 ## [2026-07-28] ingest | Wui Youtube Notes §5 — Asia Model
 
 - El yazısı "Asia Model" notu, ham nota **eklendi** (mevcut içerik
