@@ -14,7 +14,7 @@ döner. Piyasa Manipülasyonu - PO3 (AMD)'da başlık olarak geçiyordu,
 
 ![[8BA4C6A2-98FE-4750-B827-EEDA86997A17.jpeg]]
 
-## Wui'nin çerçevesi (2026-07-28)
+## Wui — Turtle Soup notları
 
 ![[turtle-soup-kapak.png]]
 

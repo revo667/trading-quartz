@@ -40,13 +40,9 @@ mevcut bilgilerimle çoğu zaman **doğru ve isabetli analiz** yapabiliyorum.
 ve kendine güvenle işlem açmaya** sıra gelince tetiği çekemiyorum ve doğru
 okuduğum birçok işlemi kaçırıyorum. Tecrübeyle geçeceğini düşünüyorum.
 
-> 🔍 **Bu teşhis neden değerli:** kaybettiren trader'ın problemi genelde
-> "yeni bilgi eksikliği"dir sanılır — ve çare diye sürekli strateji
-> değiştirilir ([[Wui Youtube Notes]] → "en büyük hata: sürekli yeni bilgi
-> aramak"). Sen bunu değil, **uygulama boşluğunu** teşhis ettin. Bu, tam
-> olarak [[me|kendi hakkında]] yazdığın şeyin trading'deki karşılığı:
-> *"öğrenmem hızlı, aksiyon almam yavaş."* Yani çözülecek problem net ve
-> tek: **kaçırılan işlem, kaybedilen işlemden daha pahalıya mal oluyor.**
+> İlgili: [[Wui Youtube Notes]] — *"en büyük hata: sürekli yeni bilgi
+> aramak."* Buradaki eksik bilgi değil, **uygulama**; yani kaçırılan
+> işlem, kaybedilen işlemden pahalıdır.
 
 ---
 
@@ -125,8 +121,7 @@ Kaybedersen sistem çalışmıştır — *"zarar, bu işin bedelidir."*
 
 ## Tetik parmağı protokolü (7. maddenin uygulaması)
 
-Teşhis "cesaret eksikliği" ise çare cesaret beklemek değil, **cesareti
-gereksiz kılan bir mekanizma** kurmaktır:
+Cesaret beklemek yerine, cesareti gereksiz kılan mekanizma:
 
 - **Önce yaz, sonra bak.** Adım 3'te senaryoyu yazılı kur. Şart oluştuğunda
   karar zaten verilmiştir — o an sadece **uygulanır.**
@@ -170,7 +165,7 @@ gereksiz kılan bir mekanizma** kurmaktır:
 
 ---
 
-## Modelin sınırları (dürüst kısım)
+## Modelin sınırları
 
 - **Henüz veri yok.** Bu model bugün bir *hipotez*; win rate'i, ortalama
   R'si, hangi paritede daha iyi çalıştığı bilinmiyor. *"0 datayla işlem
