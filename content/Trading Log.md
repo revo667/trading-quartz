@@ -19,6 +19,17 @@
   [[revo667 Model]] 3. adımın US100'deki somut çıktısı.
 - Not: Wui serisinin **ilk teknik** parçası — önceki 4 bölüm süreç/
   psikolojiydi.
+- **Tamamlama (aynı gün):** Notun tamamı Apple Notlar'dan (Bist klasörü)
+  PDF olarak dışa aktarıldı — ekran kopyasında **eksik gelen kısım**
+  eklendi: seans zinciri grafiği (`images/wui-asia-model-seanslar.png`:
+  Asia 2000–0000 → London 0200–0500 manipülasyon → NY:AM 0700–1000
+  expansion), **9:30 Judas Swing**, *"continuation tradelemek reversal'a
+  göre daha sağlıklıdır"*, London yapısının NY:AM'de devamı, zaman/ustalık
+  pasajı ve **"time and price'ın önemi"** bölümü (stres azaltma açısı).
+  Kaynak PDF: `Ham Notlar/Asia Model (Apple Notlar export).pdf`.
+- ⚠ PDF dışa aktarımı **sağ kenarı ve son satırları kırptı** — iki yer
+  `[...]` ile işaretli, tamamlanması gerekiyor. Ayrıca "Continuation
+  *tradelemek*" okuması teyit bekliyor.
 
 ## [2026-07-28] ingest | revo667 Model — kendi stratejim Halka 2'ye geçti
 

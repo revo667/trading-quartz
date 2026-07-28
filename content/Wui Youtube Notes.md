@@ -218,6 +218,44 @@ referans. Aynı mantık: PDH/PDL, seans H/L, [[Kill Zones]] tablosu.
 > oluşumu (akümülasyon).* **Varşova = ET+6** → yerel **02:00–06:00**.
 > Kışın (EST, UTC-5) kontrol et.
 
+### Seans zinciri — Asia → London (Manipulation) → NY:AM
+
+![[wui-asia-model-seanslar.png]]
+
+Grafik üç bloğu yan yana koyuyor: **2000–0000 Asia** (kesikli çizgilerle
+işaretli range = akümülasyon) → **0200–0500 London** (aşağı süpürme,
+kırmızı çizgi = alınan low) → **0700–1000 NY:AM** (mavi seviye üstünde
+expansion). Yani seviyeyi Asia üretir, London manipüle eder, NY götürür.
+
+- **9:30 civarında genellikle Judas Swing oluşur** — günün asıl yönünün
+  tersine, stop toplamak için yapılan ilk hareket.
+  ([[Piyasa Manipülasyonu - PO3 (AMD)]])
+- **Continuation tradelemek, Reversal'a göre daha sağlıklıdır.** Reversal
+  yakalamak daha çekicidir ama trendin devamını almak istatistiksel olarak
+  daha güvenli — reversal için [[SMT - Smart Money Tool]] gibi ek emniyet
+  kemerleri gerekir, continuation'da yapı zaten senin tarafında.
+- **London'da oluşan yapı, manipülasyonla birlikte NY:AM üzerinde de devam
+  edebilir** — London'ın işini bitmiş sayma; aynı hikâye NY'de sürebilir.
+
+> ⏳ **Zaman üzerine (aynı nottan):** *"Bilgiyi öğrenmek uzun zaman ister,
+> tecrübe etmek daha uzun zaman ister ve ustalaşmak en uzun zamanı ister."*
+> Sektördeki en büyük hata bir modeli hem tüm […] — *(bu cümle ve devamı
+> Apple Notlar PDF dışa aktarımında kırpıldı, tamamlanacak).*
+
+### Time and price'ın önemi *(kısmi — not eksik alındı)*
+
+- **Session saatlerini herkes bilir.** Trading sektörüne girdiğimizde
+  hayatımız killzone'lara göre şekillenebilir; fakat time and price'ı ve
+  killzone'ları doğru kullanarak **stresimizi büyük ölçüde azaltabiliriz.**
+  Yani zaman bilgisi sadece bir edge değil, **hayat düzeni aracı** — ekran
+  başında geçirilen saati azaltır.
+- *"Ama zaman ve engellerin kör etkisiyle törpülenir."*
+
+> ⚠️ **Eksik:** Bu iki bölümün son satırları Apple Notlar → PDF dışa
+> aktarımında (sağ kenar + sayfa sonu) kırpıldı. Kaynak PDF:
+> `Ham Notlar/Asia Model (Apple Notlar export).pdf`. Ayrıca *"Continuation
+> **tradelemek**"* okuması teyit bekliyor.
+
 > 🔗 **Köprü:** Bu not, [[A+ Model - Asia Range]]'in **1. adımının**
 > Wui dilindeki karşılığıdır. Dreyko modeli aynı range'i alıp devamını
 > getirir: 9.30 manipülasyonu bir ucu alır → **diğer uç hedef.** Wui
