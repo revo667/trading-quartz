@@ -53,3 +53,4 @@ Seans/zaman → likidite toplama → displacement
 - Hub: [[ICT - SMC]] · Merkez: [[Genel Bakış]]
 - İlgili: [[Likidite]]
 - İlgili: [[Inversion FVG - IFVG]]
+R
