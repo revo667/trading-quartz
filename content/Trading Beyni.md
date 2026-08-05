@@ -13,6 +13,8 @@ guncelleme: 2026-07-09
   → ICT High Level → MMXM Manipulation → Mentality; tüm görseller ve hızlı
   kural kartıyla (2026-07-15)
 - [[Genel Bakış]] — öğrenme akışı, kavram haritası, açık sorular/eksikler
+- [[Dreyko Manipulation v2]] — 🟡 Halka 2: manipülasyon serisi 2. tur
+  notları (Market Cycle, FVG = manipülasyon, HTF/LTF uyumu) (2026-08-05)
 - ⭐ [[revo667 Model]] — 🟡 **Halka 2, kendi modelim**: 3 parite, 7 adımlık
   MMXM tabanlı sistem, tetik parmağı protokolü, kontrol listesi (2026-07-28)
 - [[Trading/0'dan Trader Olma Felsefesi]] — 🟡 Halka 2 yön belgesi: disiplin,

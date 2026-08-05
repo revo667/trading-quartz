@@ -1,5 +1,20 @@
 # 📈 Trading Log
 
+## [2026-08-05] ingest | Dreyko Manipulation v2 (2. tur notları)
+
+- Ham kaynak: `Ham Notlar/Dreyko Manipulation v2.pdf` (Apple Notlar
+  export, 5 sayfa).
+- Halka 2'ye **tek dosya**: [[Dreyko Manipulation v2]] — manipülasyonun
+  her yerde olması · Smart Money ↔ Speculative Uninformed Money ·
+  **Market Cycle** (Retracement = geç kalanın manipülasyonu, **Reversal =
+  ana manipülasyon**, HTF/LTF uyumu) · **FVG'ler manipülasyon mudur?**
+  (Monthly turtle soup → aylık FVG → LTF'de manipülasyon = entry bölgesi) ·
+  **Market Flow'da FVG en önemli PDR.**
+- 6 slayt görseli PDF'ten çıkarılıp `images/dreyko-v2-*.png` olarak
+  kaydedildi ve yerlerine yerleştirildi.
+- ⚠ 1. sayfa sonundaki bir cümlenin ortası PDF kırpmasında kayboldu,
+  `[…]` ile işaretlendi.
+
 ## [2026-07-28] ingest | Wui Youtube Notes §6 — Turtle Soup
 
 - Yeni el yazısı not + 5 video görseli işlendi. Ham not sonuna `# Turtle
